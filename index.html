@@ -1,0 +1,75 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Insurance Careers Hub | Insurance Jobs Near You, Licensed or New</title>
+<meta name="description" content="Search open insurance jobs near you: sales, customer service and account manager roles at local agencies. Licensed or no experience, many agencies train you. Apply in minutes.">
+<link rel="canonical" href="https://insurancecareershub.com/">
+<meta property="og:title" content="Insurance Careers Hub: insurance jobs near you"><meta property="og:description" content="Licensed or new to insurance? Search open agency jobs and apply in minutes.">
+<meta property="og:image" content="https://insurancecareershub.com/assets/og.jpg"><meta property="og:url" content="https://insurancecareershub.com/"><meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" type="image/png" href="/assets/favicon-32.png"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png"><meta name="theme-color" content="#0F766E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="preload" href="/jobs.json" as="fetch" crossorigin>
+<style>
+:root{--teal:#0F766E;--teal-d:#114E4A;--teal-l:#14B8A6;--mint:#CCFBF1;--sun:#FBBF24;--amber:#F59E0B;--navy:#0F172A;--gray:#64748B;--bg:#F0FDFA}
+*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;font-family:'Plus Jakarta Sans',system-ui,sans-serif;color:var(--navy);background:var(--bg)}
+a{color:var(--teal)}header{background:linear-gradient(135deg,var(--teal-d),var(--teal));color:#fff;padding:16px 16px 28px}
+.wrap{max-width:1080px;margin:0 auto}.top{display:flex;align-items:center;justify-content:space-between;gap:12px}.top img{height:34px;width:auto}
+.top nav a{color:var(--mint);text-decoration:none;font-weight:600;font-size:14px;margin-left:14px}
+h1{font-size:clamp(26px,6vw,44px);font-weight:800;margin:26px 0 6px;line-height:1.1}.lead{color:var(--mint);margin:0 0 18px;font-size:clamp(15px,3.6vw,18px)}
+.search{background:#fff;border-radius:16px;padding:12px;display:grid;gap:10px;grid-template-columns:1fr;box-shadow:0 10px 30px rgba(0,0,0,.18)}
+.search input,.search select{font:inherit;font-size:16px;padding:12px;border:1.5px solid #D5E5E2;border-radius:10px;width:100%;background:#fff;color:var(--navy)}
+.search input:focus,.search select:focus{outline:2px solid var(--teal-l);border-color:transparent}
+.row{display:grid;gap:10px;grid-template-columns:1fr 1fr}
+@media(min-width:760px){.search{grid-template-columns:2fr 1fr 1fr 1fr 1fr}.row{display:contents}}
+main{padding:18px 16px}.meta{display:flex;justify-content:space-between;align-items:center;color:var(--gray);font-size:14px;margin-bottom:12px;gap:8px;flex-wrap:wrap}
+.chipbtn{border:0;background:none;color:var(--teal);font:inherit;font-weight:600;cursor:pointer}
+.grid{display:grid;gap:14px}@media(min-width:760px){.grid{grid-template-columns:1fr 1fr}}
+.card{background:#fff;border-radius:16px;padding:18px;box-shadow:0 1px 3px rgba(15,23,42,.08);display:flex;flex-direction:column;gap:8px;border:1px solid #E2F1EE}
+.card h2{font-size:19px;margin:0;font-weight:800;line-height:1.25}.loc{color:var(--teal);font-weight:700;font-size:15px}.ag{color:var(--gray);font-size:14px}
+.tags{display:flex;flex-wrap:wrap;gap:6px}.tag{font-size:13px;font-weight:700;padding:5px 10px;border-radius:999px;background:var(--mint);color:var(--teal-d)}
+.tag.pay{background:linear-gradient(135deg,var(--sun),var(--amber));color:var(--navy)}
+.sum{font-size:14px;color:#334155;line-height:1.5;margin:0}.apply{margin-top:auto;align-self:flex-start;background:var(--navy);color:#fff;text-decoration:none;font-weight:700;padding:11px 18px;border-radius:10px}
+.apply:hover{background:var(--teal-d)}.more{display:block;margin:18px auto;font:inherit;font-weight:700;padding:12px 22px;border-radius:10px;border:2px solid var(--teal);background:#fff;color:var(--teal);cursor:pointer}
+.empty{background:#fff;padding:24px;border-radius:16px;text-align:center;color:var(--gray)}
+section.about{background:#fff;padding:28px 16px;margin-top:20px}section.about h2{font-size:24px;margin:0 0 10px}section.about p,section.about li{line-height:1.6;color:#334155}
+footer{background:var(--navy);color:#CBD5E1;padding:24px 16px;font-size:14px;line-height:1.6}footer a{color:var(--mint)}footer img{height:28px;width:auto;margin-bottom:8px}
+</style></head><body>
+<header><div class="wrap"><div class="top"><a href="/"><img src="/assets/ich-logo-light.png" alt="Insurance Careers Hub" width="376" height="64"></a><nav><a href="#jobs">Jobs</a><a href="#about">About</a></nav></div>
+<h1>Insurance jobs near you.<br>Apply in minutes.</h1><p class="lead">Licensed or brand new to insurance, browse open roles at local agencies. Many will train you.</p>
+<form class="search" role="search" onsubmit="event.preventDefault()">
+<input id="q" type="search" placeholder="Job title, agency or keyword" aria-label="Keyword">
+<div class="row"><select id="state" aria-label="State"><option value="">All states</option></select>
+<input id="city" list="cities" placeholder="City" aria-label="City or near"><datalist id="cities"></datalist></div>
+<div class="row"><select id="type" aria-label="Job type"><option value="">All job types</option><option>Sales</option><option>Customer Service</option><option>Sales &amp; Service</option><option>Claims</option><option>Other</option></select>
+<select id="exp" aria-label="Experience"><option value="">Licensed or not</option><option value="no-experience">New to insurance / training</option><option value="licensed">Licensed required</option></select></div>
+</form></div></header>
+<main id="jobs" class="wrap"><div class="meta"><span id="count" aria-live="polite">Loading jobs…</span><button class="chipbtn" id="reset" type="button">Clear filters</button></div>
+<div class="grid" id="results"></div><button class="more" id="more" type="button" hidden>Show more jobs</button>
+<noscript><p class="empty">Turn on JavaScript to search jobs, or browse all openings at <a href="https://staffmyagency.com/Main/JobSearch?utm_source=insurancecareershub&utm_medium=referral&utm_campaign=ich_site">Staff My Agency</a>.</p></noscript></main>
+<section class="about" id="about"><div class="wrap"><h2>About Insurance Careers Hub</h2>
+<p>Insurance Careers Hub helps job seekers find real, open roles at local insurance agencies: sales producers, customer service reps, account managers and more. You don't need to be licensed to start. Many agencies will train the right person and help you get your Property &amp; Casualty or Life &amp; Health license.</p>
+<ul><li><b>Real openings:</b> listings refresh daily and closed jobs drop off.</li><li><b>Pay up front:</b> we show pay whenever the agency publishes it.</li><li><b>Apply in minutes:</b> each Apply button takes you to the agency's application on Staff My Agency.</li></ul></div></section>
+<footer><div class="wrap"><img src="/assets/ich-logo-light.png" alt="Insurance Careers Hub" width="330" height="56" loading="lazy"><br>
+Jobs listed here are with independent insurance agencies and are posted through <a href="https://staffmyagency.com/?utm_source=insurancecareershub&utm_medium=referral&utm_campaign=ich_site" rel="noopener">Staff My Agency</a>. Applications are handled on Staff My Agency. Insurance Careers Hub is not the employer, and agency staff are employed by the agency owner, not by the insurance carrier.<br>
+<span id="upd"></span> · © <span id="yr"></span> Insurance Careers Hub</div></footer>
+<script>
+const UTM='utm_source=insurancecareershub&utm_medium=referral&utm_campaign=ich_site',PAGE=24;
+const $=id=>document.getElementById(id);let J=[],shown=PAGE,res=[];
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+function cities(){const st=$('state').value;const c=[...new Set(J.filter(j=>!st||j.state==st).map(j=>j.city))].sort();$('cities').innerHTML=c.map(x=>`<option value="${esc(x)}">`).join('')}
+function run(reset=true){if(reset)shown=PAGE;const q=norm($('q').value).split(/\s+/).filter(Boolean),st=$('state').value,ci=norm($('city').value.trim()),ty=$('type').value,ex=$('exp').value;
+res=J.filter(j=>(!st||j.state==st)&&(!ci||norm(j.city).startsWith(ci))&&(!ty||j.type==ty)&&(!ex||j.experience==ex||(ex=='no-experience'&&false))&&q.every(w=>j._t.includes(w)));
+$('count').textContent=`${res.length} job${res.length==1?'':'s'} found`;
+$('results').innerHTML=res.length?res.slice(0,shown).map(j=>`<article class="card"><h2>${esc(j.title)}</h2><div class="loc">📍 ${esc(j.city)}, ${esc(j.state)}</div>${j.agency?`<div class="ag">${esc(j.agency)}</div>`:''}
+<div class="tags">${j.pay?`<span class="tag pay">${esc(j.pay)}</span>`:''}<span class="tag">${esc(j.type)}</span>${j.experience=='no-experience'?'<span class="tag">New to insurance OK</span>':j.experience=='licensed'?'<span class="tag">License required</span>':''}</div>
+<p class="sum">${esc(j.summary)}</p><a class="apply" href="${esc(j.apply_url)}?${UTM}" target="_blank" rel="noopener">Apply →</a></article>`).join(''):'<div class="empty">No jobs match yet. Try clearing a filter or searching a nearby city.</div>';
+$('more').hidden=res.length<=shown;const p=new URLSearchParams();[['q','q'],['state','state'],['city','city'],['type','type'],['exp','exp']].forEach(([k,id])=>{if($(id).value)p.set(k,$(id).value)});history.replaceState(null,'',p.toString()?'?'+p:location.pathname)}
+let tm;['q','city'].forEach(id=>$(id).addEventListener('input',()=>{clearTimeout(tm);tm=setTimeout(run,120)}));
+$('state').addEventListener('change',()=>{cities();run()});['type','exp'].forEach(id=>$(id).addEventListener('change',()=>run()));
+$('more').onclick=()=>{shown+=PAGE;run(false)};$('reset').onclick=()=>{['q','state','city','type','exp'].forEach(id=>$(id).value='');cities();run()};
+$('yr').textContent=new Date().getFullYear();
+fetch('/jobs.json').then(r=>r.json()).then(d=>{J=d.jobs.map(j=>({...j,_t:norm([j.title,j.agency,j.city,j.state,j.type,j.summary,j.pay].join(' '))}));
+const sts=[...new Set(J.map(j=>j.state))].sort();$('state').innerHTML+=sts.map(s=>`<option>${s}</option>`).join('');
+const p=new URLSearchParams(location.search);[['q','q'],['state','state'],['city','city'],['type','type'],['exp','exp']].forEach(([k,id])=>{if(p.get(k))$(id).value=p.get(k)});
+cities();run();$('upd').textContent='Jobs updated '+new Date(d.updated).toLocaleDateString()}).catch(()=>{$('count').textContent='Could not load jobs. Please refresh.'});
+</script></body></html>
