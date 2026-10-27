@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Rebuild jobs.json from SMA's live board https://staffmyagency.com/Main/JobSearch?Page=N.
-Closed jobs drop off automatically (only live cards are kept). Refuses to overwrite if fewer than 50 jobs are found (site outage guard)."""
+"""Rebuild jobs.json from the ICH ATS XML feed (apply URLs carry the ICH source code suon7RAzw4M=).
+Pay is not in the feed, so it is joined by job code from the public board scrape. Refuses to publish if fewer than 300 jobs."""
 import re,html,json,urllib.request,datetime,os,sys,concurrent.futures as cf
 BASE="https://staffmyagency.com/Main/JobSearch?Page=%d"
 def get(u):
@@ -34,13 +34,28 @@ def parse(t):
     return out
 def excluded(j):  # same exclusion as Job Content Studio (gen26.py)
     return "jantz" in j["agency"].lower() or "edmond" in j["city"].lower()
-first=get(BASE%1); pages=max([int(x) for x in re.findall(r"Page=(\d+)",first)]+[1])
-with cf.ThreadPoolExecutor(8) as ex: htmls=[first]+list(ex.map(lambda n:get(BASE%n),range(2,pages+1)))
+import xml.etree.ElementTree as ET
+FEED="https://staffmyagency.com/Main/XMLJobFeed?Feed=ICH"
+# Scrape board only for pay (not in feed); failures here are non-fatal
+pay={}
+try:
+    first=get(BASE%1); pages=max([int(x) for x in re.findall(r"Page=(\d+)",first)]+[1])
+    with cf.ThreadPoolExecutor(8) as ex: htmls=[first]+list(ex.map(lambda n:get(BASE%n),range(2,pages+1)))
+    for h in htmls:
+        for j in parse(h): pay[j["id"]]=j["pay"]
+except Exception as e: print("board scrape failed (pay blank):",e,file=sys.stderr)
+root=ET.fromstring(get(FEED).strip().encode())
 jobs={}
-for h in htmls:
-    for j in parse(h):
-        if not excluded(j): jobs[j["id"]]=j
-if len(jobs)<50: sys.exit(f"Only {len(jobs)} jobs found; keeping existing jobs.json")
+for x in root.iter("job"):
+    g=lambda k:(x.findtext(k) or "").strip()
+    url=g("url"); m=re.search(r"/ApplyForJob/([^/]+)/",url)
+    if not m or not url.endswith("/suon7RAzw4M="): continue
+    jid=m.group(1); title=clean(g("title")); d=clean(g("description"))
+    j=dict(id=jid,title=title,agency=clean(g("company")),city=clean(g("city")).title(),state=g("state").upper(),
+        pay=pay.get(jid,""),summary=(d[:240].rsplit(" ",1)[0]+"\u2026") if len(d)>240 else d,
+        type=jtype(title,d),experience=lic(title,d),apply_url=url)
+    if not excluded(j): jobs[jid]=j
+if len(jobs)<300: sys.exit(f"Only {len(jobs)} jobs found; keeping existing jobs.json")
 out=os.path.join(os.path.dirname(os.path.abspath(__file__)),"jobs.json")
 json.dump(dict(updated=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),count=len(jobs),jobs=sorted(jobs.values(),key=lambda j:(j["state"],j["city"]))),open(out+".tmp","w"),separators=(",",":"))
-os.replace(out+".tmp",out); print(f"{len(jobs)} jobs from {pages} pages -> {out}")
+os.replace(out+".tmp",out); print(f"{len(jobs)} jobs from feed ({sum(1 for j in jobs.values() if j['pay'])} with pay) -> {out}")
