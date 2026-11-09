@@ -1,10 +1,21 @@
 {
-  "updated": "2026-11-09T11:43:56-06:00",
-  "updated_label": "2026-11-09 11:43 AM CT",
-  "count": 60,
+  "updated": "2026-11-09T13:13:17-06:00",
+  "updated_label": "2026-11-09 1:13 PM CT",
+  "count": 58,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
-  "skipped": [],
+  "skipped": [
+    {
+      "job_id": "MvAW9I7TPxg=",
+      "label": "Spokane Valley WA Sales",
+      "reason": "redirect:https://staffmyagency.com/"
+    },
+    {
+      "job_id": "uJi0p6bSF2o=",
+      "label": "Chicago IL Sales",
+      "reason": "redirect:https://staffmyagency.com/"
+    }
+  ],
   "excluded_ids": [
     "525ZmDYT8n0=",
     "5IgMg0sqJqk=",
@@ -42,19 +53,6 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/fTGOmtitdOI=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-09",
       "ig_url": "https://www.instagram.com/p/Dfh1a8RjD4R/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "MvAW9I7TPxg=",
-      "label": "Spokane Valley WA Sales",
-      "title": "Sales Representative - Farmers Insurance",
-      "city": "Spokane Valley",
-      "state": "WA",
-      "slug": "spokane-valley-wa",
-      "job_page": "https://insurancecareershub.com/j/spokane-valley-wa/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/MvAW9I7TPxg=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-09",
-      "ig_url": "https://www.instagram.com/p/Dfhy1fbl92Q/",
       "open_check": "apply_now"
     },
     {
@@ -133,19 +131,6 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/mGtVkwOATTQ=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-06",
       "ig_url": "https://www.instagram.com/p/DfZ_2IIl604/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "uJi0p6bSF2o=",
-      "label": "Chicago IL Sales",
-      "title": "Licensed Insurance Sales Representative - Remote Must Live in Chicagoland area",
-      "city": "Chicago",
-      "state": "IL",
-      "slug": "chicago-il",
-      "job_page": "https://insurancecareershub.com/j/chicago-il/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/uJi0p6bSF2o=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-06",
-      "ig_url": "https://www.instagram.com/p/DfZ9IEdl2k_/",
       "open_check": "apply_now"
     },
     {
@@ -828,11 +813,11 @@
       "job_id": "MvAW9I7TPxg=",
       "slug": "spokane-valley-wa",
       "url": "https://insurancecareershub.com/j/spokane-valley-wa/",
-      "filled": false,
+      "filled": true,
       "label": "Spokane Valley WA Sales",
       "title": "Sales Representative - Farmers Insurance",
       "og_image": "https://insurancecareershub.com/assets/jobs/spokane-valley-wa.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/MvAW9I7TPxg=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "fb_tracked": "",
       "date": "2026-11-09"
     },
     {
@@ -905,11 +890,11 @@
       "job_id": "uJi0p6bSF2o=",
       "slug": "chicago-il",
       "url": "https://insurancecareershub.com/j/chicago-il/",
-      "filled": false,
+      "filled": true,
       "label": "Chicago IL Sales",
       "title": "Licensed Insurance Sales Representative - Remote Must Live in Chicagoland area",
       "og_image": "https://insurancecareershub.com/assets/jobs/chicago-il.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/uJi0p6bSF2o=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "fb_tracked": "",
       "date": "2026-11-06"
     },
     {
