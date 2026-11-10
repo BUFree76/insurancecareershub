@@ -1,21 +1,16 @@
 {
-  "updated": "2026-11-10T07:34:50-06:00",
-  "updated_label": "2026-11-10 7:34 AM CT",
+  "updated": "2026-11-10T15:49:21-06:00",
+  "updated_label": "2026-11-10 3:49 PM CT",
   "count": 65,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
-  "skipped": [
-    {
-      "job_id": "Fn_nKdjLIz4=",
-      "label": "Park Ridge IL Role",
-      "reason": "redirect:https://staffmyagency.com/"
-    }
-  ],
+  "skipped": [],
   "excluded_ids": [
     "525ZmDYT8n0=",
     "5IgMg0sqJqk=",
     "5hCKQgQbuQ8=",
     "6ATukrFwLHM=",
+    "Fn_nKdjLIz4=",
     "J0Fo88ikfEQ=",
     "M7yB_XaE3Sw=",
     "MJYzqjhmGxs=",
@@ -25,6 +20,7 @@
     "aknnR5lwO0M=",
     "bu_GE8is56E=",
     "d_YpNwW5sgQ=",
+    "fRvNKsi4JoU=",
     "gwXez75FGy0=",
     "hHl-xBu48IQ=",
     "hzut9EUj3RA=",
@@ -34,20 +30,21 @@
     "r8f47md9_IY=",
     "sqSgN_q1bpQ=",
     "wPHDMh5USfM=",
-    "xvx0GYEaTvA="
+    "xvx0GYEaTvA=",
+    "zVO1h7wAG88="
   ],
   "jobs": [
     {
-      "job_id": "8dbu33pY_wU=",
-      "label": "Peoria AZ Sales",
-      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
-      "city": "Peoria",
+      "job_id": "9nirFbirIE4=",
+      "label": "Tempe AZ Bilingual",
+      "title": "Bilingual Insurance Sales Representative \u2013 State Farm Team Member",
+      "city": "Tempe",
       "state": "AZ",
-      "slug": "peoria-az",
-      "job_page": "https://insurancecareershub.com/j/peoria-az/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/8dbu33pY_wU=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "slug": "tempe-az",
+      "job_page": "https://insurancecareershub.com/j/tempe-az/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/9nirFbirIE4=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-10",
-      "ig_url": null,
+      "ig_url": "https://www.instagram.com/p/Dfk6HbiF7wM/",
       "open_check": "apply_now"
     },
     {
@@ -60,7 +57,7 @@
       "job_page": "https://insurancecareershub.com/j/van-nuys-ca/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/NW100Z3KOIc=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-10",
-      "ig_url": null,
+      "ig_url": "https://www.instagram.com/p/Dfk3qlCl6QY/",
       "open_check": "apply_now"
     },
     {
@@ -73,33 +70,7 @@
       "job_page": "https://insurancecareershub.com/j/ooltewah-tn/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/pGWOBmn2U9c=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-10",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "MVWDlPGMxxM=",
-      "label": "Waukesha WI Bilingual Trainee",
-      "title": "Bilingual Insurance Agent Trainee - Spanish",
-      "city": "Waukesha",
-      "state": "WI",
-      "slug": "waukesha-wi",
-      "job_page": "https://insurancecareershub.com/j/waukesha-wi/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/MVWDlPGMxxM=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-10",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "9nirFbirIE4=",
-      "label": "Tempe AZ Bilingual",
-      "title": "Bilingual Insurance Sales Representative \u2013 State Farm Team Member",
-      "city": "Tempe",
-      "state": "AZ",
-      "slug": "tempe-az",
-      "job_page": "https://insurancecareershub.com/j/tempe-az/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/9nirFbirIE4=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-10",
-      "ig_url": null,
+      "ig_url": "https://www.instagram.com/p/Dfk1NXdl2Kk/",
       "open_check": "apply_now"
     },
     {
@@ -112,7 +83,33 @@
       "job_page": "https://insurancecareershub.com/j/columbia-md/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/nVdSx4nAslk=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-10",
-      "ig_url": null,
+      "ig_url": "https://www.instagram.com/p/DfkGwDcl3Zj/",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "8dbu33pY_wU=",
+      "label": "Peoria AZ Sales",
+      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
+      "city": "Peoria",
+      "state": "AZ",
+      "slug": "peoria-az",
+      "job_page": "https://insurancecareershub.com/j/peoria-az/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/8dbu33pY_wU=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-10",
+      "ig_url": "https://www.instagram.com/p/DfkESrbF4yb/",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "MVWDlPGMxxM=",
+      "label": "Waukesha WI Bilingual Trainee",
+      "title": "Bilingual Insurance Agent Trainee - Spanish",
+      "city": "Waukesha",
+      "state": "WI",
+      "slug": "waukesha-wi",
+      "job_page": "https://insurancecareershub.com/j/waukesha-wi/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/MVWDlPGMxxM=/NaNqf00X-G4=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-10",
+      "ig_url": "https://www.instagram.com/p/DfkB4Kll_vq/",
       "open_check": "apply_now"
     },
     {
@@ -885,14 +882,14 @@
   ],
   "job_pages": [
     {
-      "job_id": "8dbu33pY_wU=",
-      "slug": "peoria-az",
-      "url": "https://insurancecareershub.com/j/peoria-az/",
+      "job_id": "9nirFbirIE4=",
+      "slug": "tempe-az",
+      "url": "https://insurancecareershub.com/j/tempe-az/",
       "filled": false,
-      "label": "Peoria AZ Sales",
-      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
-      "og_image": "https://insurancecareershub.com/assets/jobs/peoria-az.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/8dbu33pY_wU=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Tempe AZ Bilingual",
+      "title": "Bilingual Insurance Sales Representative \u2013 State Farm Team Member",
+      "og_image": "https://insurancecareershub.com/assets/jobs/tempe-az.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/9nirFbirIE4=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-10"
     },
     {
@@ -918,28 +915,6 @@
       "date": "2026-11-10"
     },
     {
-      "job_id": "MVWDlPGMxxM=",
-      "slug": "waukesha-wi",
-      "url": "https://insurancecareershub.com/j/waukesha-wi/",
-      "filled": false,
-      "label": "Waukesha WI Bilingual Trainee",
-      "title": "Bilingual Insurance Agent Trainee - Spanish",
-      "og_image": "https://insurancecareershub.com/assets/jobs/waukesha-wi.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/MVWDlPGMxxM=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-10"
-    },
-    {
-      "job_id": "9nirFbirIE4=",
-      "slug": "tempe-az",
-      "url": "https://insurancecareershub.com/j/tempe-az/",
-      "filled": false,
-      "label": "Tempe AZ Bilingual",
-      "title": "Bilingual Insurance Sales Representative \u2013 State Farm Team Member",
-      "og_image": "https://insurancecareershub.com/assets/jobs/tempe-az.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/9nirFbirIE4=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-10"
-    },
-    {
       "job_id": "nVdSx4nAslk=",
       "slug": "columbia-md",
       "url": "https://insurancecareershub.com/j/columbia-md/",
@@ -948,6 +923,28 @@
       "title": "Insurance Customer Service Representative",
       "og_image": "https://insurancecareershub.com/assets/jobs/columbia-md.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/nVdSx4nAslk=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-10"
+    },
+    {
+      "job_id": "8dbu33pY_wU=",
+      "slug": "peoria-az",
+      "url": "https://insurancecareershub.com/j/peoria-az/",
+      "filled": false,
+      "label": "Peoria AZ Sales",
+      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
+      "og_image": "https://insurancecareershub.com/assets/jobs/peoria-az.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/8dbu33pY_wU=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-10"
+    },
+    {
+      "job_id": "MVWDlPGMxxM=",
+      "slug": "waukesha-wi",
+      "url": "https://insurancecareershub.com/j/waukesha-wi/",
+      "filled": false,
+      "label": "Waukesha WI Bilingual Trainee",
+      "title": "Bilingual Insurance Agent Trainee - Spanish",
+      "og_image": "https://insurancecareershub.com/assets/jobs/waukesha-wi.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/MVWDlPGMxxM=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-10"
     },
     {
@@ -1586,17 +1583,6 @@
       "title": "",
       "og_image": "https://insurancecareershub.com/assets/og.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/wci2lWqbjPk=/NaNqf00X-G4=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-10-28"
-    },
-    {
-      "job_id": "Fn_nKdjLIz4=",
-      "slug": "role-fnnkdj",
-      "url": "https://insurancecareershub.com/j/role-fnnkdj/",
-      "filled": true,
-      "label": "Role",
-      "title": "",
-      "og_image": "https://insurancecareershub.com/assets/og.jpg",
-      "fb_tracked": "",
       "date": "2026-10-28"
     }
   ]
