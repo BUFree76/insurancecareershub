@@ -1,26 +1,24 @@
 {
-  "updated": "2026-11-11T07:29:49-06:00",
-  "updated_label": "2026-11-11 7:29 AM CT",
-  "count": 70,
+  "updated": "2026-11-11T11:39:52-06:00",
+  "updated_label": "2026-11-11 11:39 AM CT",
+  "count": 71,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
-  "skipped": [
-    {
-      "job_id": "LbbVisiWK1k=",
-      "label": "Irving TX Sales",
-      "reason": "redirect:https://staffmyagency.com/"
-    }
-  ],
+  "skipped": [],
   "excluded_ids": [
     "525ZmDYT8n0=",
     "5IgMg0sqJqk=",
     "5hCKQgQbuQ8=",
     "6ATukrFwLHM=",
+    "Akhn0iiynhQ=",
     "Fn_nKdjLIz4=",
+    "GTB2RtaW6sI=",
+    "IE0U0RseznE=",
     "J0Fo88ikfEQ=",
     "M7yB_XaE3Sw=",
     "MJYzqjhmGxs=",
     "NpU0MLsXmy8=",
+    "Slf-ekzkTjA=",
     "Y6ep-CjRoPE=",
     "ZKJfA4JKKlk=",
     "aknnR5lwO0M=",
@@ -41,19 +39,6 @@
   ],
   "jobs": [
     {
-      "job_id": "T29mkf3cMPE=",
-      "label": "La Palma CA Bilingual",
-      "title": "Bilingual Insurance Sales Representative - Spanish",
-      "city": "La Palma",
-      "state": "CA",
-      "slug": "la-palma-ca",
-      "job_page": "https://insurancecareershub.com/j/la-palma-ca/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/T29mkf3cMPE=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-11",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "ecK1Zp7ur5g=",
       "label": "Maple Grove MN Sales",
       "title": "Inside Sales & Growth Specialist",
@@ -63,33 +48,7 @@
       "job_page": "https://insurancecareershub.com/j/maple-grove-mn-inside-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/ecK1Zp7ur5g=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-11",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "h99xb3cuQng=",
-      "label": "Taylorsville UT Sales",
-      "title": "Insurance Sales Representative",
-      "city": "Taylorsville",
-      "state": "UT",
-      "slug": "taylorsville-ut",
-      "job_page": "https://insurancecareershub.com/j/taylorsville-ut/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/h99xb3cuQng=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-11",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "kCFUuWh8EqU=",
-      "label": "Nashville TN CSR",
-      "title": "Insurance Customer Service",
-      "city": "Nashville",
-      "state": "TN",
-      "slug": "nashville-tn",
-      "job_page": "https://insurancecareershub.com/j/nashville-tn/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/kCFUuWh8EqU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-11",
-      "ig_url": null,
+      "ig_url": "https://www.instagram.com/p/DfnCQYgF4G4/",
       "open_check": "apply_now"
     },
     {
@@ -102,7 +61,46 @@
       "job_page": "https://insurancecareershub.com/j/wayzata-mn-client-experience/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/eK9auzb0BFE=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-11",
-      "ig_url": null,
+      "ig_url": "https://www.instagram.com/p/DfnAfPSl7n3/",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "h99xb3cuQng=",
+      "label": "Taylorsville UT Sales",
+      "title": "Insurance Sales Representative",
+      "city": "Taylorsville",
+      "state": "UT",
+      "slug": "taylorsville-ut",
+      "job_page": "https://insurancecareershub.com/j/taylorsville-ut/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/h99xb3cuQng=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-11",
+      "ig_url": "https://www.instagram.com/p/Dfm-sFxl5rF/",
+      "open_check": "apply_now_recheck"
+    },
+    {
+      "job_id": "kCFUuWh8EqU=",
+      "label": "Nashville TN CSR",
+      "title": "Insurance Customer Service",
+      "city": "Nashville",
+      "state": "TN",
+      "slug": "nashville-tn",
+      "job_page": "https://insurancecareershub.com/j/nashville-tn/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/kCFUuWh8EqU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-11",
+      "ig_url": "https://www.instagram.com/p/Dfm83vnlzyl/",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "T29mkf3cMPE=",
+      "label": "La Palma CA Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Spanish",
+      "city": "La Palma",
+      "state": "CA",
+      "slug": "la-palma-ca",
+      "job_page": "https://insurancecareershub.com/j/la-palma-ca/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/T29mkf3cMPE=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-11",
+      "ig_url": "https://www.instagram.com/p/Dfm7F8qlwya/",
       "open_check": "apply_now"
     },
     {
@@ -115,8 +113,8 @@
       "job_page": "https://insurancecareershub.com/j/tempe-az-brand-ambassador/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/kSskQAvtZaE=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-11",
-      "ig_url": null,
-      "open_check": "apply_now_recheck"
+      "ig_url": "https://www.instagram.com/p/Dfm5WURDVYp/",
+      "open_check": "apply_now"
     },
     {
       "job_id": "9nirFbirIE4=",
@@ -142,7 +140,7 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/NW100Z3KOIc=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-10",
       "ig_url": "https://www.instagram.com/p/Dfk3qlCl6QY/",
-      "open_check": "apply_now"
+      "open_check": "apply_now_recheck"
     },
     {
       "job_id": "pGWOBmn2U9c=",
@@ -808,6 +806,19 @@
       "open_check": "apply_now"
     },
     {
+      "job_id": "LbbVisiWK1k=",
+      "label": "Irving TX Sales",
+      "title": "Entry Level Sales",
+      "city": "Irving",
+      "state": "TX",
+      "slug": "irving-tx",
+      "job_page": "https://insurancecareershub.com/j/irving-tx/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/LbbVisiWK1k=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-10-30",
+      "ig_url": "https://www.instagram.com/p/DfHnY3nF9da/",
+      "open_check": "apply_now"
+    },
+    {
       "job_id": "ugb8ZKTgWJk=",
       "label": "Spring TX Sales",
       "title": "Sales Representative",
@@ -953,17 +964,6 @@
   ],
   "job_pages": [
     {
-      "job_id": "T29mkf3cMPE=",
-      "slug": "la-palma-ca",
-      "url": "https://insurancecareershub.com/j/la-palma-ca/",
-      "filled": false,
-      "label": "La Palma CA Bilingual",
-      "title": "Bilingual Insurance Sales Representative - Spanish",
-      "og_image": "https://insurancecareershub.com/assets/jobs/la-palma-ca.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/T29mkf3cMPE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-11"
-    },
-    {
       "job_id": "ecK1Zp7ur5g=",
       "slug": "maple-grove-mn-inside-sales",
       "url": "https://insurancecareershub.com/j/maple-grove-mn-inside-sales/",
@@ -972,6 +972,17 @@
       "title": "Inside Sales & Growth Specialist",
       "og_image": "https://insurancecareershub.com/assets/jobs/maple-grove-mn-inside-sales.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/ecK1Zp7ur5g=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-11"
+    },
+    {
+      "job_id": "eK9auzb0BFE=",
+      "slug": "wayzata-mn-client-experience",
+      "url": "https://insurancecareershub.com/j/wayzata-mn-client-experience/",
+      "filled": false,
+      "label": "Wayzata MN Client Experience &",
+      "title": "Client Experience & Retention Specialist",
+      "og_image": "https://insurancecareershub.com/assets/jobs/wayzata-mn-client-experience.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/eK9auzb0BFE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-11"
     },
     {
@@ -997,14 +1008,14 @@
       "date": "2026-11-11"
     },
     {
-      "job_id": "eK9auzb0BFE=",
-      "slug": "wayzata-mn-client-experience",
-      "url": "https://insurancecareershub.com/j/wayzata-mn-client-experience/",
+      "job_id": "T29mkf3cMPE=",
+      "slug": "la-palma-ca",
+      "url": "https://insurancecareershub.com/j/la-palma-ca/",
       "filled": false,
-      "label": "Wayzata MN Client Experience &",
-      "title": "Client Experience & Retention Specialist",
-      "og_image": "https://insurancecareershub.com/assets/jobs/wayzata-mn-client-experience.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/eK9auzb0BFE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "La Palma CA Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Spanish",
+      "og_image": "https://insurancecareershub.com/assets/jobs/la-palma-ca.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/T29mkf3cMPE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-11"
     },
     {
@@ -1605,11 +1616,11 @@
       "job_id": "LbbVisiWK1k=",
       "slug": "irving-tx",
       "url": "https://insurancecareershub.com/j/irving-tx/",
-      "filled": true,
+      "filled": false,
       "label": "Irving TX Sales",
       "title": "Entry Level Sales",
       "og_image": "https://insurancecareershub.com/assets/jobs/irving-tx.jpg",
-      "fb_tracked": "",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/LbbVisiWK1k=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-10-30"
     },
     {

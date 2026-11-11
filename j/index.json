@@ -1,16 +1,5 @@
 [
   {
-    "job_id": "T29mkf3cMPE=",
-    "slug": "la-palma-ca",
-    "url": "https://insurancecareershub.com/j/la-palma-ca/",
-    "filled": false,
-    "label": "La Palma CA Bilingual",
-    "title": "Bilingual Insurance Sales Representative - Spanish",
-    "og_image": "https://insurancecareershub.com/assets/jobs/la-palma-ca.jpg",
-    "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/T29mkf3cMPE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-    "date": "2026-11-11"
-  },
-  {
     "job_id": "ecK1Zp7ur5g=",
     "slug": "maple-grove-mn-inside-sales",
     "url": "https://insurancecareershub.com/j/maple-grove-mn-inside-sales/",
@@ -19,6 +8,17 @@
     "title": "Inside Sales & Growth Specialist",
     "og_image": "https://insurancecareershub.com/assets/jobs/maple-grove-mn-inside-sales.jpg",
     "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/ecK1Zp7ur5g=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+    "date": "2026-11-11"
+  },
+  {
+    "job_id": "eK9auzb0BFE=",
+    "slug": "wayzata-mn-client-experience",
+    "url": "https://insurancecareershub.com/j/wayzata-mn-client-experience/",
+    "filled": false,
+    "label": "Wayzata MN Client Experience &",
+    "title": "Client Experience & Retention Specialist",
+    "og_image": "https://insurancecareershub.com/assets/jobs/wayzata-mn-client-experience.jpg",
+    "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/eK9auzb0BFE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
     "date": "2026-11-11"
   },
   {
@@ -44,14 +44,14 @@
     "date": "2026-11-11"
   },
   {
-    "job_id": "eK9auzb0BFE=",
-    "slug": "wayzata-mn-client-experience",
-    "url": "https://insurancecareershub.com/j/wayzata-mn-client-experience/",
+    "job_id": "T29mkf3cMPE=",
+    "slug": "la-palma-ca",
+    "url": "https://insurancecareershub.com/j/la-palma-ca/",
     "filled": false,
-    "label": "Wayzata MN Client Experience &",
-    "title": "Client Experience & Retention Specialist",
-    "og_image": "https://insurancecareershub.com/assets/jobs/wayzata-mn-client-experience.jpg",
-    "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/eK9auzb0BFE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+    "label": "La Palma CA Bilingual",
+    "title": "Bilingual Insurance Sales Representative - Spanish",
+    "og_image": "https://insurancecareershub.com/assets/jobs/la-palma-ca.jpg",
+    "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/T29mkf3cMPE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
     "date": "2026-11-11"
   },
   {
@@ -652,11 +652,11 @@
     "job_id": "LbbVisiWK1k=",
     "slug": "irving-tx",
     "url": "https://insurancecareershub.com/j/irving-tx/",
-    "filled": true,
+    "filled": false,
     "label": "Irving TX Sales",
     "title": "Entry Level Sales",
     "og_image": "https://insurancecareershub.com/assets/jobs/irving-tx.jpg",
-    "fb_tracked": "",
+    "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/LbbVisiWK1k=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
     "date": "2026-10-30"
   },
   {
