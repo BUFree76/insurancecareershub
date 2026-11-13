@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T16:12:19-06:00",
-  "updated_label": "2026-11-12 4:12 PM CT",
+  "updated": "2026-11-13T07:33:59-06:00",
+  "updated_label": "2026-11-13 7:33 AM CT",
   "count": 77,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
@@ -41,6 +41,19 @@
   ],
   "jobs": [
     {
+      "job_id": "9c_B0RA0qng=",
+      "label": "Maple Grove MN Client Experience &",
+      "title": "Client Experience & Retention Specialist",
+      "city": "Maple Grove",
+      "state": "MN",
+      "slug": "maple-grove-mn-client-experience",
+      "job_page": "https://insurancecareershub.com/j/maple-grove-mn-client-experience/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/9c_B0RA0qng=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-12",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
       "job_id": "EVj-2_HltL8=",
       "label": "Wayzata MN Client Experience &",
       "title": "Client Experience & Community Engagement Coordinator",
@@ -49,6 +62,19 @@
       "slug": "wayzata-mn-community-coordinator",
       "job_page": "https://insurancecareershub.com/j/wayzata-mn-community-coordinator/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/EVj-2_HltL8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-12",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "p5TeyQwyMz4=",
+      "label": "Maple Grove MN Client Experience &",
+      "title": "Client Experience & Community Engagement Coordinator",
+      "city": "Maple Grove",
+      "state": "MN",
+      "slug": "maple-grove-mn-community-coordinator",
+      "job_page": "https://insurancecareershub.com/j/maple-grove-mn-community-coordinator/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/p5TeyQwyMz4=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-12",
       "ig_url": null,
       "open_check": "apply_now"
@@ -67,19 +93,6 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "9c_B0RA0qng=",
-      "label": "Maple Grove MN Client Experience &",
-      "title": "Client Experience & Retention Specialist",
-      "city": "Maple Grove",
-      "state": "MN",
-      "slug": "maple-grove-mn-client-experience",
-      "job_page": "https://insurancecareershub.com/j/maple-grove-mn-client-experience/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/9c_B0RA0qng=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-12",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "q9VZGSwbCAs=",
       "label": "Knoxville TN CSR",
       "title": "Customer Service Representative",
@@ -88,19 +101,6 @@
       "slug": "knoxville-tn",
       "job_page": "https://insurancecareershub.com/j/knoxville-tn/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/q9VZGSwbCAs=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-12",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "p5TeyQwyMz4=",
-      "label": "Maple Grove MN Client Experience &",
-      "title": "Client Experience & Community Engagement Coordinator",
-      "city": "Maple Grove",
-      "state": "MN",
-      "slug": "maple-grove-mn-community-coordinator",
-      "job_page": "https://insurancecareershub.com/j/maple-grove-mn-community-coordinator/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/p5TeyQwyMz4=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-12",
       "ig_url": null,
       "open_check": "apply_now"
