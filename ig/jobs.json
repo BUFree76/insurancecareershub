@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-13T12:15:37-06:00",
-  "updated_label": "2026-11-13 12:15 PM CT",
-  "count": 82,
+  "updated": "2026-11-16T07:34:46-06:00",
+  "updated_label": "2026-11-16 7:34 AM CT",
+  "count": 81,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
   "skipped": [],
@@ -11,6 +11,7 @@
     "5hCKQgQbuQ8=",
     "6APsVvBrovw=",
     "6ATukrFwLHM=",
+    "6jS7-BkC1S8=",
     "Akhn0iiynhQ=",
     "Fn_nKdjLIz4=",
     "GTB2RtaW6sI=",
@@ -18,6 +19,7 @@
     "J0Fo88ikfEQ=",
     "M7yB_XaE3Sw=",
     "MJYzqjhmGxs=",
+    "Mq4XLS5UhAU=",
     "NpU0MLsXmy8=",
     "OflVjeN4a4E=",
     "Slf-ekzkTjA=",
@@ -35,10 +37,12 @@
     "jiVc1ZZ9Rm0=",
     "kv4tp_9q_EY=",
     "mMo0fayvEz8=",
+    "nByxnibpX04=",
     "r8f47md9_IY=",
     "sqSgN_q1bpQ=",
     "wPHDMh5USfM=",
     "xvx0GYEaTvA=",
+    "zELYTMvTeco=",
     "zVO1h7wAG88="
   ],
   "jobs": [
@@ -130,7 +134,7 @@
       "job_page": "https://insurancecareershub.com/j/madison-wi/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/h1lYxkLZkgI=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-12",
-      "ig_url": "IG-LIKELY-POSTED-VERIFY-madison-wi",
+      "ig_url": "https://www.instagram.com/p/DfsQBw5l52K/",
       "open_check": "apply_now"
     },
     {
@@ -143,7 +147,7 @@
       "job_page": "https://insurancecareershub.com/j/knoxville-tn/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/q9VZGSwbCAs=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-12",
-      "ig_url": "IG-LIKELY-POSTED-VERIFY-knoxville-tn",
+      "ig_url": "https://www.instagram.com/p/DfsNn6Fl8MW/",
       "open_check": "apply_now"
     },
     {
@@ -156,7 +160,7 @@
       "job_page": "https://insurancecareershub.com/j/maple-grove-mn-community-coordinator/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/p5TeyQwyMz4=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-12",
-      "ig_url": "IG-LIKELY-POSTED-VERIFY-maple-grove-mn-community-coordinator",
+      "ig_url": "https://www.instagram.com/p/DfsLI2xF8fg/",
       "open_check": "apply_now"
     },
     {
@@ -169,7 +173,7 @@
       "job_page": "https://insurancecareershub.com/j/wayzata-mn-community-coordinator/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/EVj-2_HltL8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-12",
-      "ig_url": "IG-LIKELY-POSTED-VERIFY-wayzata-mn-community-coordinator",
+      "ig_url": "https://www.instagram.com/p/DfsIpgDl0iV/",
       "open_check": "apply_now"
     },
     {
@@ -1083,19 +1087,6 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "nByxnibpX04=",
-      "label": "Nashville TN Sales",
-      "title": "Entry Level Sales",
-      "city": "Nashville",
-      "state": "TN",
-      "slug": "nashville-tn-sales-nbyxni",
-      "job_page": "https://insurancecareershub.com/j/nashville-tn-sales-nbyxni/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/nByxnibpX04=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-10-28",
-      "ig_url": "https://www.instagram.com/p/DfCgqouFzaF",
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "wci2lWqbjPk=",
       "label": "Cottonwood Heights UT Role",
       "title": "",
@@ -1110,6 +1101,17 @@
     }
   ],
   "job_pages": [
+    {
+      "job_id": "wSA_0X4OBAs=",
+      "slug": "madison-wi-entry-level",
+      "url": "https://insurancecareershub.com/j/madison-wi-entry-level/",
+      "filled": false,
+      "label": "Madison WI Sales",
+      "title": "Entry Level Sales \u2013 Financial Services",
+      "og_image": "https://insurancecareershub.com/assets/jobs/madison-wi-entry-level.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/wSA_0X4OBAs=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-16"
+    },
     {
       "job_id": "InyEX24IoYw=",
       "slug": "tucson-az-remote-sales",
@@ -1988,17 +1990,6 @@
       "title": "Insurance Sales Producer",
       "og_image": "https://insurancecareershub.com/assets/og.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/RWFQ5Pq6C5Q=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-10-28"
-    },
-    {
-      "job_id": "nByxnibpX04=",
-      "slug": "nashville-tn-sales-nbyxni",
-      "url": "https://insurancecareershub.com/j/nashville-tn-sales-nbyxni/",
-      "filled": false,
-      "label": "Nashville TN Sales",
-      "title": "Entry Level Sales",
-      "og_image": "https://insurancecareershub.com/assets/og.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/nByxnibpX04=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-10-28"
     },
     {
