@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-16T07:34:46-06:00",
-  "updated_label": "2026-11-16 7:34 AM CT",
-  "count": 81,
+  "updated": "2026-11-16T07:58:29-06:00",
+  "updated_label": "2026-11-16 7:58 AM CT",
+  "count": 82,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
   "skipped": [],
   "excluded_ids": [
     "525ZmDYT8n0=",
+    "5EBakd5OQCw=",
     "5IgMg0sqJqk=",
     "5hCKQgQbuQ8=",
     "6APsVvBrovw=",
@@ -39,6 +40,7 @@
     "mMo0fayvEz8=",
     "nByxnibpX04=",
     "r8f47md9_IY=",
+    "rFpClkYTRPc=",
     "sqSgN_q1bpQ=",
     "wPHDMh5USfM=",
     "xvx0GYEaTvA=",
@@ -46,6 +48,19 @@
     "zVO1h7wAG88="
   ],
   "jobs": [
+    {
+      "job_id": "wSA_0X4OBAs=",
+      "label": "Madison WI Sales",
+      "title": "Entry Level Sales \u2013 Financial Services",
+      "city": "Madison",
+      "state": "WI",
+      "slug": "madison-wi-entry-level",
+      "job_page": "https://insurancecareershub.com/j/madison-wi-entry-level/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/wSA_0X4OBAs=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-16",
+      "ig_url": "likely_posted_verify",
+      "open_check": "apply_now"
+    },
     {
       "job_id": "InyEX24IoYw=",
       "label": "Tucson AZ Sales",
@@ -1101,6 +1116,17 @@
     }
   ],
   "job_pages": [
+    {
+      "job_id": "_KlOKEd_r-k=",
+      "slug": "riverside-ca-bilingual-telemarketer",
+      "url": "https://insurancecareershub.com/j/riverside-ca-bilingual-telemarketer/",
+      "filled": false,
+      "label": "Riverside CA Bilingual",
+      "title": "Bilingual (Spanish) Telemarketer - State Farm Agent Team Member",
+      "og_image": "https://insurancecareershub.com/assets/jobs/riverside-ca-bilingual-telemarketer.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/_KlOKEd_r-k=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-16"
+    },
     {
       "job_id": "wSA_0X4OBAs=",
       "slug": "madison-wi-entry-level",
