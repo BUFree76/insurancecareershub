@@ -1,10 +1,16 @@
 {
-  "updated": "2026-11-17T07:58:42-06:00",
-  "updated_label": "2026-11-17 7:58 AM CT",
-  "count": 86,
+  "updated": "2026-11-17T08:23:13-06:00",
+  "updated_label": "2026-11-17 8:23 AM CT",
+  "count": 84,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
-  "skipped": [],
+  "skipped": [
+    {
+      "job_id": "YNNOm1Vz2Hg=",
+      "label": "Elmira NY Sales",
+      "reason": "redirect:https://staffmyagency.com/"
+    }
+  ],
   "excluded_ids": [
     "2pOJ7I69UPI=",
     "4qfvrFk0bio=",
@@ -52,13 +58,28 @@
     "rFpClkYTRPc=",
     "sgB4SQ3BUv8=",
     "sqSgN_q1bpQ=",
+    "sqiFZ7xHoAM=",
     "uuy5d7HOvao=",
+    "vkpcoIg6dBA=",
     "wPHDMh5USfM=",
     "xvx0GYEaTvA=",
     "zELYTMvTeco=",
     "zVO1h7wAG88="
   ],
   "jobs": [
+    {
+      "job_id": "gly7-zqMbLk=",
+      "label": "Riverside CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "city": "Riverside",
+      "state": "CA",
+      "slug": "riverside-ca-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/riverside-ca-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/gly7-zqMbLk=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-17",
+      "ig_url": "likely_posted_verify",
+      "open_check": "apply_now"
+    },
     {
       "job_id": "pBeTjJVefWg=",
       "label": "La Palma CA Bilingual",
@@ -567,19 +588,6 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "vkpcoIg6dBA=",
-      "label": "Kaufman TX Account Rep",
-      "title": "Property & Casualty Insurance Account Representative",
-      "city": "Kaufman",
-      "state": "TX",
-      "slug": "kaufman-tx",
-      "job_page": "https://insurancecareershub.com/j/kaufman-tx/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/vkpcoIg6dBA=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-06",
-      "ig_url": "https://www.instagram.com/p/DfZ06u9F6Zs/",
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "i__t9M6yugE=",
       "label": "Wichita Falls TX Trainee",
       "title": "INSURANCE AGENT TRAINEE",
@@ -655,19 +663,6 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/1FY0Q_Eu0p8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-05",
       "ig_url": "https://www.instagram.com/p/DfXKJQblxzI/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "YNNOm1Vz2Hg=",
-      "label": "Elmira NY Sales",
-      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
-      "city": "Elmira",
-      "state": "NY",
-      "slug": "elmira-ny",
-      "job_page": "https://insurancecareershub.com/j/elmira-ny/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/YNNOm1Vz2Hg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-04",
-      "ig_url": "https://www.instagram.com/p/DfUxz0UDfx6/",
       "open_check": "apply_now"
     },
     {
@@ -759,19 +754,6 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/Rz3eXhQg7DU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-03",
       "ig_url": "https://www.instagram.com/p/DfS2SgJl64f/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "sqiFZ7xHoAM=",
-      "label": "Staten Island NY CSR",
-      "title": "Customer Service Representative - State Farm Agent Team Member",
-      "city": "Staten Island",
-      "state": "NY",
-      "slug": "staten-island-ny-csr",
-      "job_page": "https://insurancecareershub.com/j/staten-island-ny-csr/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/sqiFZ7xHoAM=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-03",
-      "ig_url": "https://www.instagram.com/p/DfSzw32jHLg/",
       "open_check": "apply_now"
     },
     {
@@ -1179,6 +1161,17 @@
     }
   ],
   "job_pages": [
+    {
+      "job_id": "cQIpwEB9j6A=",
+      "slug": "katy-tx-licensed-sales",
+      "url": "https://insurancecareershub.com/j/katy-tx-licensed-sales/",
+      "filled": false,
+      "label": "Katy TX Sales",
+      "title": "Licensed Property & Casualty Insurance Sales",
+      "og_image": "https://insurancecareershub.com/assets/jobs/katy-tx-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/cQIpwEB9j6A=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-17"
+    },
     {
       "job_id": "gly7-zqMbLk=",
       "slug": "riverside-ca-licensed-sales",
@@ -1631,17 +1624,6 @@
       "date": "2026-11-06"
     },
     {
-      "job_id": "vkpcoIg6dBA=",
-      "slug": "kaufman-tx",
-      "url": "https://insurancecareershub.com/j/kaufman-tx/",
-      "filled": false,
-      "label": "Kaufman TX Account Rep",
-      "title": "Property & Casualty Insurance Account Representative",
-      "og_image": "https://insurancecareershub.com/assets/jobs/kaufman-tx.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/vkpcoIg6dBA=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-06"
-    },
-    {
       "job_id": "i__t9M6yugE=",
       "slug": "wichita-falls-tx",
       "url": "https://insurancecareershub.com/j/wichita-falls-tx/",
@@ -1711,11 +1693,11 @@
       "job_id": "YNNOm1Vz2Hg=",
       "slug": "elmira-ny",
       "url": "https://insurancecareershub.com/j/elmira-ny/",
-      "filled": false,
+      "filled": true,
       "label": "Elmira NY Sales",
       "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
       "og_image": "https://insurancecareershub.com/assets/jobs/elmira-ny.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/YNNOm1Vz2Hg=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "fb_tracked": "",
       "date": "2026-11-04"
     },
     {
@@ -1793,17 +1775,6 @@
       "title": "Business Development Representative - State Farm Agent Team Member",
       "og_image": "https://insurancecareershub.com/assets/jobs/staten-island-ny-bdr.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/Rz3eXhQg7DU=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-03"
-    },
-    {
-      "job_id": "sqiFZ7xHoAM=",
-      "slug": "staten-island-ny-csr",
-      "url": "https://insurancecareershub.com/j/staten-island-ny-csr/",
-      "filled": false,
-      "label": "Staten Island NY CSR",
-      "title": "Customer Service Representative - State Farm Agent Team Member",
-      "og_image": "https://insurancecareershub.com/assets/jobs/staten-island-ny-csr.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/sqiFZ7xHoAM=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-03"
     },
     {
