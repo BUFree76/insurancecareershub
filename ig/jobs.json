@@ -1,10 +1,21 @@
 {
-  "updated": "2026-11-16T09:32:05-06:00",
-  "updated_label": "2026-11-16 9:32 AM CT",
-  "count": 87,
+  "updated": "2026-11-17T07:36:51-06:00",
+  "updated_label": "2026-11-17 7:36 AM CT",
+  "count": 85,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
-  "skipped": [],
+  "skipped": [
+    {
+      "job_id": "4qfvrFk0bio=",
+      "label": "Clinton Township MI Sales & Service",
+      "reason": "redirect:https://staffmyagency.com/"
+    },
+    {
+      "job_id": "VEj8u5l9W_4=",
+      "label": "Clinton Township MI Sales & Service",
+      "reason": "redirect:https://staffmyagency.com/"
+    }
+  ],
   "excluded_ids": [
     "2pOJ7I69UPI=",
     "525ZmDYT8n0=",
@@ -15,6 +26,7 @@
     "6ATukrFwLHM=",
     "6jS7-BkC1S8=",
     "9NtEiwXaWy8=",
+    "A_5vTFOXGck=",
     "Akhn0iiynhQ=",
     "Fn_nKdjLIz4=",
     "GTB2RtaW6sI=",
@@ -57,32 +69,6 @@
   ],
   "jobs": [
     {
-      "job_id": "cQWvexp2XY8=",
-      "label": "Tucson AZ Account Rep",
-      "title": "Insurance Account Representative",
-      "city": "Tucson",
-      "state": "AZ",
-      "slug": "tucson-az-account-rep",
-      "job_page": "https://insurancecareershub.com/j/tucson-az-account-rep/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/cQWvexp2XY8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-16",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "MQW_zIj08HY=",
-      "label": "Riverside CA Bilingual",
-      "title": "Bilingual Licensed Insurance Sales Representative - Spanish",
-      "city": "Riverside",
-      "state": "CA",
-      "slug": "riverside-ca-bilingual-licensed-sales",
-      "job_page": "https://insurancecareershub.com/j/riverside-ca-bilingual-licensed-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/MQW_zIj08HY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-16",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "VJGaktnHK18=",
       "label": "La Palma CA Bilingual",
       "title": "Bilingual Sales Representative - Spanish",
@@ -92,7 +78,7 @@
       "job_page": "https://insurancecareershub.com/j/la-palma-ca-bilingual-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/VJGaktnHK18=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-16",
-      "ig_url": null,
+      "ig_url": "https://www.instagram.com/p/Dfzzjqyl-_n/",
       "open_check": "apply_now"
     },
     {
@@ -105,7 +91,33 @@
       "job_page": "https://insurancecareershub.com/j/davie-fl-receptionist/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/Wthvn2KrYZo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-16",
-      "ig_url": null,
+      "ig_url": "https://www.instagram.com/p/DfzxGAwl8PH/",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "cQWvexp2XY8=",
+      "label": "Tucson AZ Account Rep",
+      "title": "Insurance Account Representative",
+      "city": "Tucson",
+      "state": "AZ",
+      "slug": "tucson-az-account-rep",
+      "job_page": "https://insurancecareershub.com/j/tucson-az-account-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/cQWvexp2XY8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-16",
+      "ig_url": "https://www.instagram.com/p/Dfzug21l35H/",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "MQW_zIj08HY=",
+      "label": "Riverside CA Bilingual",
+      "title": "Bilingual Licensed Insurance Sales Representative - Spanish",
+      "city": "Riverside",
+      "state": "CA",
+      "slug": "riverside-ca-bilingual-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/riverside-ca-bilingual-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/MQW_zIj08HY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-16",
+      "ig_url": "https://www.instagram.com/p/DfzsDXiF_8L/",
       "open_check": "apply_now"
     },
     {
@@ -118,7 +130,7 @@
       "job_page": "https://insurancecareershub.com/j/riverside-ca-bilingual-telemarketer/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/_KlOKEd_r-k=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-16",
-      "ig_url": "likely_posted_verify",
+      "ig_url": "https://www.instagram.com/p/DfzhMedFzBY/",
       "open_check": "apply_now"
     },
     {
@@ -131,7 +143,7 @@
       "job_page": "https://insurancecareershub.com/j/madison-wi-entry-level/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/wSA_0X4OBAs=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-16",
-      "ig_url": "likely_posted_verify",
+      "ig_url": "https://www.instagram.com/p/DfzeiBjl8Hw/",
       "open_check": "apply_now"
     },
     {
@@ -483,32 +495,6 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/uebA2RO3mlg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-09",
       "ig_url": "https://www.instagram.com/p/Dfhij98F70H/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "4qfvrFk0bio=",
-      "label": "Clinton Township MI Sales & Service",
-      "title": "Entry Level Service / Sales Representative",
-      "city": "Clinton Township",
-      "state": "MI",
-      "slug": "clinton-twp-mi-entry",
-      "job_page": "https://insurancecareershub.com/j/clinton-twp-mi-entry/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/4qfvrFk0bio=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-09",
-      "ig_url": "https://www.instagram.com/p/DfhgF8oDHVN/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "VEj8u5l9W_4=",
-      "label": "Clinton Township MI Sales & Service",
-      "title": "Insurance Sales & Customer Relationship Representative",
-      "city": "Clinton Township",
-      "state": "MI",
-      "slug": "clinton-twp-mi-sales",
-      "job_page": "https://insurancecareershub.com/j/clinton-twp-mi-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/VEj8u5l9W_4=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-09",
-      "ig_url": "https://www.instagram.com/p/Dfhdld_lw1R/",
       "open_check": "apply_now"
     },
     {
@@ -1190,17 +1176,6 @@
   ],
   "job_pages": [
     {
-      "job_id": "cQWvexp2XY8=",
-      "slug": "tucson-az-account-rep",
-      "url": "https://insurancecareershub.com/j/tucson-az-account-rep/",
-      "filled": false,
-      "label": "Tucson AZ Account Rep",
-      "title": "Insurance Account Representative",
-      "og_image": "https://insurancecareershub.com/assets/jobs/tucson-az-account-rep.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/cQWvexp2XY8=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-16"
-    },
-    {
       "job_id": "VJGaktnHK18=",
       "slug": "la-palma-ca-bilingual-sales",
       "url": "https://insurancecareershub.com/j/la-palma-ca-bilingual-sales/",
@@ -1220,6 +1195,17 @@
       "title": "Customer Service / Receptionist",
       "og_image": "https://insurancecareershub.com/assets/jobs/davie-fl-receptionist.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/Wthvn2KrYZo=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-16"
+    },
+    {
+      "job_id": "cQWvexp2XY8=",
+      "slug": "tucson-az-account-rep",
+      "url": "https://insurancecareershub.com/j/tucson-az-account-rep/",
+      "filled": false,
+      "label": "Tucson AZ Account Rep",
+      "title": "Insurance Account Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/tucson-az-account-rep.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/cQWvexp2XY8=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-16"
     },
     {
@@ -1567,22 +1553,22 @@
       "job_id": "4qfvrFk0bio=",
       "slug": "clinton-twp-mi-entry",
       "url": "https://insurancecareershub.com/j/clinton-twp-mi-entry/",
-      "filled": false,
+      "filled": true,
       "label": "Clinton Township MI Sales & Service",
       "title": "Entry Level Service / Sales Representative",
       "og_image": "https://insurancecareershub.com/assets/jobs/clinton-twp-mi-entry.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/4qfvrFk0bio=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "fb_tracked": "",
       "date": "2026-11-09"
     },
     {
       "job_id": "VEj8u5l9W_4=",
       "slug": "clinton-twp-mi-sales",
       "url": "https://insurancecareershub.com/j/clinton-twp-mi-sales/",
-      "filled": false,
+      "filled": true,
       "label": "Clinton Township MI Sales & Service",
       "title": "Insurance Sales & Customer Relationship Representative",
       "og_image": "https://insurancecareershub.com/assets/jobs/clinton-twp-mi-sales.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/VEj8u5l9W_4=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "fb_tracked": "",
       "date": "2026-11-09"
     },
     {
