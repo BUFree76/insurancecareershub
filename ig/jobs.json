@@ -1,16 +1,10 @@
 {
-  "updated": "2026-11-17T08:23:13-06:00",
-  "updated_label": "2026-11-17 8:23 AM CT",
-  "count": 84,
+  "updated": "2026-11-17T09:28:15-06:00",
+  "updated_label": "2026-11-17 9:28 AM CT",
+  "count": 89,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
-  "skipped": [
-    {
-      "job_id": "YNNOm1Vz2Hg=",
-      "label": "Elmira NY Sales",
-      "reason": "redirect:https://staffmyagency.com/"
-    }
-  ],
+  "skipped": [],
   "excluded_ids": [
     "2pOJ7I69UPI=",
     "4qfvrFk0bio=",
@@ -26,6 +20,7 @@
     "Akhn0iiynhQ=",
     "Fn_nKdjLIz4=",
     "GTB2RtaW6sI=",
+    "GVtLvEFwNFo=",
     "IE0U0RseznE=",
     "J0Fo88ikfEQ=",
     "M7yB_XaE3Sw=",
@@ -67,6 +62,58 @@
     "zVO1h7wAG88="
   ],
   "jobs": [
+    {
+      "job_id": "cQIpwEB9j6A=",
+      "label": "Katy TX Sales",
+      "title": "Licensed Property & Casualty Insurance Sales",
+      "city": "Katy",
+      "state": "TX",
+      "slug": "katy-tx-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/katy-tx-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/cQIpwEB9j6A=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-17",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "QFSks5gHszY=",
+      "label": "Montgomery TX CSR",
+      "title": "Licensed Customer Service Representative",
+      "city": "Montgomery",
+      "state": "TX",
+      "slug": "montgomery-tx-licensed-csr",
+      "job_page": "https://insurancecareershub.com/j/montgomery-tx-licensed-csr/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/QFSks5gHszY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-17",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "YynpUM59BhY=",
+      "label": "Anaheim Hills CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "city": "Anaheim Hills",
+      "state": "CA",
+      "slug": "anaheim-hills-ca-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/anaheim-hills-ca-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/YynpUM59BhY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-17",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "VzVV1Vp3CdQ=",
+      "label": "Burbank CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "city": "Burbank",
+      "state": "CA",
+      "slug": "burbank-ca-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/burbank-ca-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/VzVV1Vp3CdQ=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-17",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
     {
       "job_id": "gly7-zqMbLk=",
       "label": "Riverside CA Sales",
@@ -666,6 +713,19 @@
       "open_check": "apply_now"
     },
     {
+      "job_id": "YNNOm1Vz2Hg=",
+      "label": "Elmira NY Sales",
+      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
+      "city": "Elmira",
+      "state": "NY",
+      "slug": "elmira-ny",
+      "job_page": "https://insurancecareershub.com/j/elmira-ny/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/YNNOm1Vz2Hg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-04",
+      "ig_url": "https://www.instagram.com/p/DfUxz0UDfx6/",
+      "open_check": "apply_now"
+    },
+    {
       "job_id": "AQgohs-Olwk=",
       "label": "Montgomery TX Sales",
       "title": "Property and Casualty Insurance Sales Representative",
@@ -1161,6 +1221,39 @@
     }
   ],
   "job_pages": [
+    {
+      "job_id": "QFSks5gHszY=",
+      "slug": "montgomery-tx-licensed-csr",
+      "url": "https://insurancecareershub.com/j/montgomery-tx-licensed-csr/",
+      "filled": false,
+      "label": "Montgomery TX CSR",
+      "title": "Licensed Customer Service Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/montgomery-tx-licensed-csr.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/QFSks5gHszY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-17"
+    },
+    {
+      "job_id": "YynpUM59BhY=",
+      "slug": "anaheim-hills-ca-licensed-sales",
+      "url": "https://insurancecareershub.com/j/anaheim-hills-ca-licensed-sales/",
+      "filled": false,
+      "label": "Anaheim Hills CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "og_image": "https://insurancecareershub.com/assets/jobs/anaheim-hills-ca-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/YynpUM59BhY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-17"
+    },
+    {
+      "job_id": "VzVV1Vp3CdQ=",
+      "slug": "burbank-ca-licensed-sales",
+      "url": "https://insurancecareershub.com/j/burbank-ca-licensed-sales/",
+      "filled": false,
+      "label": "Burbank CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "og_image": "https://insurancecareershub.com/assets/jobs/burbank-ca-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/VzVV1Vp3CdQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-17"
+    },
     {
       "job_id": "cQIpwEB9j6A=",
       "slug": "katy-tx-licensed-sales",
@@ -1693,11 +1786,11 @@
       "job_id": "YNNOm1Vz2Hg=",
       "slug": "elmira-ny",
       "url": "https://insurancecareershub.com/j/elmira-ny/",
-      "filled": true,
+      "filled": false,
       "label": "Elmira NY Sales",
       "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
       "og_image": "https://insurancecareershub.com/assets/jobs/elmira-ny.jpg",
-      "fb_tracked": "",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/YNNOm1Vz2Hg=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-04"
     },
     {
