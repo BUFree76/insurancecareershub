@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-17T09:28:15-06:00",
-  "updated_label": "2026-11-17 9:28 AM CT",
-  "count": 89,
+  "updated": "2026-11-19T07:31:39-06:00",
+  "updated_label": "2026-11-19 7:31 AM CT",
+  "count": 87,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
   "skipped": [],
@@ -23,12 +23,14 @@
     "GVtLvEFwNFo=",
     "IE0U0RseznE=",
     "J0Fo88ikfEQ=",
+    "KE_e1ueq_Z4=",
     "M7yB_XaE3Sw=",
     "MJYzqjhmGxs=",
     "Mq4XLS5UhAU=",
     "NpU0MLsXmy8=",
     "OflVjeN4a4E=",
     "S2V9XN6d3GA=",
+    "SGA_9YOHHW0=",
     "Slf-ekzkTjA=",
     "T29mkf3cMPE=",
     "VEj8u5l9W_4=",
@@ -46,6 +48,7 @@
     "hzut9EUj3RA=",
     "jiVc1ZZ9Rm0=",
     "kv4tp_9q_EY=",
+    "mGtVkwOATTQ=",
     "mMo0fayvEz8=",
     "nByxnibpX04=",
     "qkGW5RGwnNw=",
@@ -63,29 +66,16 @@
   ],
   "jobs": [
     {
-      "job_id": "cQIpwEB9j6A=",
-      "label": "Katy TX Sales",
-      "title": "Licensed Property & Casualty Insurance Sales",
-      "city": "Katy",
-      "state": "TX",
-      "slug": "katy-tx-licensed-sales",
-      "job_page": "https://insurancecareershub.com/j/katy-tx-licensed-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/cQIpwEB9j6A=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "job_id": "VzVV1Vp3CdQ=",
+      "label": "Burbank CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "city": "Burbank",
+      "state": "CA",
+      "slug": "burbank-ca-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/burbank-ca-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/VzVV1Vp3CdQ=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-17",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "QFSks5gHszY=",
-      "label": "Montgomery TX CSR",
-      "title": "Licensed Customer Service Representative",
-      "city": "Montgomery",
-      "state": "TX",
-      "slug": "montgomery-tx-licensed-csr",
-      "job_page": "https://insurancecareershub.com/j/montgomery-tx-licensed-csr/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/QFSks5gHszY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-17",
-      "ig_url": null,
+      "ig_url": "live (grid-confirmed 10:36 AM CT)",
       "open_check": "apply_now"
     },
     {
@@ -98,20 +88,33 @@
       "job_page": "https://insurancecareershub.com/j/anaheim-hills-ca-licensed-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/YynpUM59BhY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-17",
-      "ig_url": null,
+      "ig_url": "live (grid-confirmed 10:36 AM CT)",
       "open_check": "apply_now"
     },
     {
-      "job_id": "VzVV1Vp3CdQ=",
-      "label": "Burbank CA Sales",
-      "title": "Property & Casualty Licensed Insurance Sales",
-      "city": "Burbank",
-      "state": "CA",
-      "slug": "burbank-ca-licensed-sales",
-      "job_page": "https://insurancecareershub.com/j/burbank-ca-licensed-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/VzVV1Vp3CdQ=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "job_id": "QFSks5gHszY=",
+      "label": "Montgomery TX CSR",
+      "title": "Licensed Customer Service Representative",
+      "city": "Montgomery",
+      "state": "TX",
+      "slug": "montgomery-tx-licensed-csr",
+      "job_page": "https://insurancecareershub.com/j/montgomery-tx-licensed-csr/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/QFSks5gHszY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-17",
-      "ig_url": null,
+      "ig_url": "live (grid-confirmed 10:36 AM CT)",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "cQIpwEB9j6A=",
+      "label": "Katy TX Sales",
+      "title": "Licensed Property & Casualty Insurance Sales",
+      "city": "Katy",
+      "state": "TX",
+      "slug": "katy-tx-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/katy-tx-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/cQIpwEB9j6A=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-17",
+      "ig_url": "live (grid-confirmed 10:36 AM CT)",
       "open_check": "apply_now"
     },
     {
@@ -124,7 +127,7 @@
       "job_page": "https://insurancecareershub.com/j/riverside-ca-licensed-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/gly7-zqMbLk=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-17",
-      "ig_url": "likely_posted_verify",
+      "ig_url": "live (grid-confirmed 10:36 AM CT)",
       "open_check": "apply_now"
     },
     {
@@ -137,7 +140,7 @@
       "job_page": "https://insurancecareershub.com/j/la-palma-ca-bilingual-account-rep/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/pBeTjJVefWg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-17",
-      "ig_url": "likely_posted_verify",
+      "ig_url": "live (grid-confirmed 10:36 AM CT)",
       "open_check": "apply_now"
     },
     {
@@ -583,19 +586,6 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "mGtVkwOATTQ=",
-      "label": "Folsom CA Sales",
-      "title": "Licensed Insurance Sales Representative (P&C)",
-      "city": "Folsom",
-      "state": "CA",
-      "slug": "folsom-ca",
-      "job_page": "https://insurancecareershub.com/j/folsom-ca/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/mGtVkwOATTQ=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-06",
-      "ig_url": "https://www.instagram.com/p/DfZ_2IIl604/",
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "uJi0p6bSF2o=",
       "label": "Chicago IL Sales",
       "title": "Licensed Insurance Sales Representative - Remote Must Live in Chicagoland area",
@@ -853,19 +843,6 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/_StS-z944yU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-03",
       "ig_url": "https://www.instagram.com/p/DfSA_zel6UI/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "KE_e1ueq_Z4=",
-      "label": "Round Rock TX Sales",
-      "title": "Insurance Sales Representative",
-      "city": "Round Rock",
-      "state": "TX",
-      "slug": "round-rock-tx",
-      "job_page": "https://insurancecareershub.com/j/round-rock-tx/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/KE_e1ueq_Z4=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-02",
-      "ig_url": "https://www.instagram.com/p/DfQdnI1lxSq/",
       "open_check": "apply_now"
     },
     {
@@ -1222,14 +1199,14 @@
   ],
   "job_pages": [
     {
-      "job_id": "QFSks5gHszY=",
-      "slug": "montgomery-tx-licensed-csr",
-      "url": "https://insurancecareershub.com/j/montgomery-tx-licensed-csr/",
+      "job_id": "VzVV1Vp3CdQ=",
+      "slug": "burbank-ca-licensed-sales",
+      "url": "https://insurancecareershub.com/j/burbank-ca-licensed-sales/",
       "filled": false,
-      "label": "Montgomery TX CSR",
-      "title": "Licensed Customer Service Representative",
-      "og_image": "https://insurancecareershub.com/assets/jobs/montgomery-tx-licensed-csr.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/QFSks5gHszY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Burbank CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "og_image": "https://insurancecareershub.com/assets/jobs/burbank-ca-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/VzVV1Vp3CdQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-17"
     },
     {
@@ -1244,14 +1221,14 @@
       "date": "2026-11-17"
     },
     {
-      "job_id": "VzVV1Vp3CdQ=",
-      "slug": "burbank-ca-licensed-sales",
-      "url": "https://insurancecareershub.com/j/burbank-ca-licensed-sales/",
+      "job_id": "QFSks5gHszY=",
+      "slug": "montgomery-tx-licensed-csr",
+      "url": "https://insurancecareershub.com/j/montgomery-tx-licensed-csr/",
       "filled": false,
-      "label": "Burbank CA Sales",
-      "title": "Property & Casualty Licensed Insurance Sales",
-      "og_image": "https://insurancecareershub.com/assets/jobs/burbank-ca-licensed-sales.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/VzVV1Vp3CdQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Montgomery TX CSR",
+      "title": "Licensed Customer Service Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/montgomery-tx-licensed-csr.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/QFSks5gHszY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-17"
     },
     {
@@ -1673,17 +1650,6 @@
       "date": "2026-11-06"
     },
     {
-      "job_id": "mGtVkwOATTQ=",
-      "slug": "folsom-ca",
-      "url": "https://insurancecareershub.com/j/folsom-ca/",
-      "filled": false,
-      "label": "Folsom CA Sales",
-      "title": "Licensed Insurance Sales Representative (P&C)",
-      "og_image": "https://insurancecareershub.com/assets/jobs/folsom-ca.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/mGtVkwOATTQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-06"
-    },
-    {
       "job_id": "uJi0p6bSF2o=",
       "slug": "chicago-il",
       "url": "https://insurancecareershub.com/j/chicago-il/",
@@ -1902,17 +1868,6 @@
       "og_image": "https://insurancecareershub.com/assets/jobs/hayward-wi.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/_StS-z944yU=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-03"
-    },
-    {
-      "job_id": "KE_e1ueq_Z4=",
-      "slug": "round-rock-tx",
-      "url": "https://insurancecareershub.com/j/round-rock-tx/",
-      "filled": false,
-      "label": "Round Rock TX Sales",
-      "title": "Insurance Sales Representative",
-      "og_image": "https://insurancecareershub.com/assets/jobs/round-rock-tx.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/KE_e1ueq_Z4=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-02"
     },
     {
       "job_id": "dw4KxSjGBeU=",
