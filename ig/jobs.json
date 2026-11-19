@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-19T07:31:39-06:00",
-  "updated_label": "2026-11-19 7:31 AM CT",
-  "count": 87,
+  "updated": "2026-11-19T07:33:42-06:00",
+  "updated_label": "2026-11-19 7:33 AM CT",
+  "count": 93,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
   "skipped": [],
@@ -65,6 +65,84 @@
     "zVO1h7wAG88="
   ],
   "jobs": [
+    {
+      "job_id": "8-lMH6QVwa8=",
+      "label": "Cincinnati OH Front Office Social",
+      "title": "Front Office / Social Media Marketing",
+      "city": "Cincinnati",
+      "state": "OH",
+      "slug": "cincinnati-oh-front-office-social",
+      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-front-office-social/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/8-lMH6QVwa8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "J9quGM0v2SY=",
+      "label": "Cincinnati OH Customer Retention Specialist",
+      "title": "Customer Retention Specialist",
+      "city": "Cincinnati",
+      "state": "OH",
+      "slug": "cincinnati-oh-customer-retention",
+      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-customer-retention/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/J9quGM0v2SY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "hsMMd3gsM4Y=",
+      "label": "Cincinnati OH Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "city": "Cincinnati",
+      "state": "OH",
+      "slug": "cincinnati-oh-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/hsMMd3gsM4Y=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "GZ_WVlCj2CU=",
+      "label": "Cincinnati OH CSR",
+      "title": "Licensed Insurance Customer Service",
+      "city": "Cincinnati",
+      "state": "OH",
+      "slug": "cincinnati-oh-licensed-csr",
+      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-licensed-csr/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/GZ_WVlCj2CU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "xHsW3AzoMc0=",
+      "label": "Folsom CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "city": "Folsom",
+      "state": "CA",
+      "slug": "folsom-ca-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/folsom-ca-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/xHsW3AzoMc0=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "b3arroGz9DQ=",
+      "label": "Phoenix AZ Sales",
+      "title": "Insurance Sales Representative - Phoenix, AZ (P&C Licensed)",
+      "city": "Phoenix",
+      "state": "AZ",
+      "slug": "phoenix-az-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/phoenix-az-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/b3arroGz9DQ=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
     {
       "job_id": "VzVV1Vp3CdQ=",
       "label": "Burbank CA Sales",
@@ -1198,6 +1276,72 @@
     }
   ],
   "job_pages": [
+    {
+      "job_id": "8-lMH6QVwa8=",
+      "slug": "cincinnati-oh-front-office-social",
+      "url": "https://insurancecareershub.com/j/cincinnati-oh-front-office-social/",
+      "filled": false,
+      "label": "Cincinnati OH Front Office Social",
+      "title": "Front Office / Social Media Marketing",
+      "og_image": "https://insurancecareershub.com/assets/jobs/cincinnati-oh-front-office-social.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/8-lMH6QVwa8=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-19"
+    },
+    {
+      "job_id": "J9quGM0v2SY=",
+      "slug": "cincinnati-oh-customer-retention",
+      "url": "https://insurancecareershub.com/j/cincinnati-oh-customer-retention/",
+      "filled": false,
+      "label": "Cincinnati OH Customer Retention Specialist",
+      "title": "Customer Retention Specialist",
+      "og_image": "https://insurancecareershub.com/assets/jobs/cincinnati-oh-customer-retention.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/J9quGM0v2SY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-19"
+    },
+    {
+      "job_id": "hsMMd3gsM4Y=",
+      "slug": "cincinnati-oh-licensed-sales",
+      "url": "https://insurancecareershub.com/j/cincinnati-oh-licensed-sales/",
+      "filled": false,
+      "label": "Cincinnati OH Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/cincinnati-oh-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/hsMMd3gsM4Y=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-19"
+    },
+    {
+      "job_id": "GZ_WVlCj2CU=",
+      "slug": "cincinnati-oh-licensed-csr",
+      "url": "https://insurancecareershub.com/j/cincinnati-oh-licensed-csr/",
+      "filled": false,
+      "label": "Cincinnati OH CSR",
+      "title": "Licensed Insurance Customer Service",
+      "og_image": "https://insurancecareershub.com/assets/jobs/cincinnati-oh-licensed-csr.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/GZ_WVlCj2CU=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-19"
+    },
+    {
+      "job_id": "xHsW3AzoMc0=",
+      "slug": "folsom-ca-licensed-sales",
+      "url": "https://insurancecareershub.com/j/folsom-ca-licensed-sales/",
+      "filled": false,
+      "label": "Folsom CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "og_image": "https://insurancecareershub.com/assets/jobs/folsom-ca-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/xHsW3AzoMc0=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-19"
+    },
+    {
+      "job_id": "b3arroGz9DQ=",
+      "slug": "phoenix-az-licensed-sales",
+      "url": "https://insurancecareershub.com/j/phoenix-az-licensed-sales/",
+      "filled": false,
+      "label": "Phoenix AZ Sales",
+      "title": "Insurance Sales Representative - Phoenix, AZ (P&C Licensed)",
+      "og_image": "https://insurancecareershub.com/assets/jobs/phoenix-az-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/b3arroGz9DQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-19"
+    },
     {
       "job_id": "VzVV1Vp3CdQ=",
       "slug": "burbank-ca-licensed-sales",
