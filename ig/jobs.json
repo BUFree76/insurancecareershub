@@ -1,16 +1,10 @@
 {
-  "updated": "2026-11-20T07:36:53-06:00",
-  "updated_label": "2026-11-20 7:36 AM CT",
-  "count": 89,
+  "updated": "2026-11-20T07:37:38-06:00",
+  "updated_label": "2026-11-20 7:37 AM CT",
+  "count": 96,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
-  "skipped": [
-    {
-      "job_id": "wci2lWqbjPk=",
-      "label": "Cottonwood Heights UT Role",
-      "reason": "redirect:https://staffmyagency.com/"
-    }
-  ],
+  "skipped": [],
   "excluded_ids": [
     "2pOJ7I69UPI=",
     "4qfvrFk0bio=",
@@ -77,6 +71,84 @@
     "zVO1h7wAG88="
   ],
   "jobs": [
+    {
+      "job_id": "K4dOc5I_zAo=",
+      "label": "Haltom City TX Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "city": "Haltom City",
+      "state": "TX",
+      "slug": "haltom-city-tx-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/haltom-city-tx-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/K4dOc5I_zAo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-20",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "l0EEH3YtEV8=",
+      "label": "Haltom City TX Bilingual",
+      "title": "Part-Time Receptionist / Office Assistant - Bilingual Preferred",
+      "city": "Haltom City",
+      "state": "TX",
+      "slug": "haltom-city-tx-receptionist-pt",
+      "job_page": "https://insurancecareershub.com/j/haltom-city-tx-receptionist-pt/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/l0EEH3YtEV8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-20",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "cw85J5C3vJo=",
+      "label": "Hewlett NY Sales",
+      "title": "Insurance Sales Representative",
+      "city": "Hewlett",
+      "state": "NY",
+      "slug": "hewlett-ny-insurance-sales",
+      "job_page": "https://insurancecareershub.com/j/hewlett-ny-insurance-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/cw85J5C3vJo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-20",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "9b74OlTLhFA=",
+      "label": "Round Rock TX Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Spanish",
+      "city": "Round Rock",
+      "state": "TX",
+      "slug": "round-rock-tx-bilingual-sales",
+      "job_page": "https://insurancecareershub.com/j/round-rock-tx-bilingual-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/9b74OlTLhFA=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-20",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "pRtSEo80joU=",
+      "label": "Mentor OH Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "city": "Mentor",
+      "state": "OH",
+      "slug": "mentor-oh-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/mentor-oh-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/pRtSEo80joU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-20",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "VOVwEqRTuRw=",
+      "label": "Charlotte NC Sales",
+      "title": "Insurance Sales Representative \u2013 Medicare and Life",
+      "city": "Charlotte",
+      "state": "NC",
+      "slug": "charlotte-nc-medicare-life-sales",
+      "job_page": "https://insurancecareershub.com/j/charlotte-nc-medicare-life-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/VOVwEqRTuRw=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-20",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
     {
       "job_id": "xHsW3AzoMc0=",
       "label": "Folsom CA Sales",
@@ -153,7 +225,7 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/8-lMH6QVwa8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-19",
       "ig_url": "https://www.instagram.com/p/Df7M37_FzoI/",
-      "open_check": "apply_now_recheck"
+      "open_check": "apply_now"
     },
     {
       "job_id": "VzVV1Vp3CdQ=",
@@ -1233,9 +1305,88 @@
       "date": "2026-10-28",
       "ig_url": "https://www.instagram.com/p/DfCghjBl9ED",
       "open_check": "apply_now"
+    },
+    {
+      "job_id": "wci2lWqbjPk=",
+      "label": "Cottonwood Heights UT Role",
+      "title": "",
+      "city": "Cottonwood Heights",
+      "state": "UT",
+      "slug": "cottonwood-heights-ut-role-wci2lw",
+      "job_page": "https://insurancecareershub.com/j/cottonwood-heights-ut-role-wci2lw/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/wci2lWqbjPk=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-10-28",
+      "ig_url": "https://www.instagram.com/p/DfCj9Q1F1Eu",
+      "open_check": "apply_now"
     }
   ],
   "job_pages": [
+    {
+      "job_id": "K4dOc5I_zAo=",
+      "slug": "haltom-city-tx-licensed-sales",
+      "url": "https://insurancecareershub.com/j/haltom-city-tx-licensed-sales/",
+      "filled": false,
+      "label": "Haltom City TX Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/haltom-city-tx-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/K4dOc5I_zAo=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-20"
+    },
+    {
+      "job_id": "l0EEH3YtEV8=",
+      "slug": "haltom-city-tx-receptionist-pt",
+      "url": "https://insurancecareershub.com/j/haltom-city-tx-receptionist-pt/",
+      "filled": false,
+      "label": "Haltom City TX Bilingual",
+      "title": "Part-Time Receptionist / Office Assistant - Bilingual Preferred",
+      "og_image": "https://insurancecareershub.com/assets/jobs/haltom-city-tx-receptionist-pt.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/l0EEH3YtEV8=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-20"
+    },
+    {
+      "job_id": "cw85J5C3vJo=",
+      "slug": "hewlett-ny-insurance-sales",
+      "url": "https://insurancecareershub.com/j/hewlett-ny-insurance-sales/",
+      "filled": false,
+      "label": "Hewlett NY Sales",
+      "title": "Insurance Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/hewlett-ny-insurance-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/cw85J5C3vJo=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-20"
+    },
+    {
+      "job_id": "9b74OlTLhFA=",
+      "slug": "round-rock-tx-bilingual-sales",
+      "url": "https://insurancecareershub.com/j/round-rock-tx-bilingual-sales/",
+      "filled": false,
+      "label": "Round Rock TX Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Spanish",
+      "og_image": "https://insurancecareershub.com/assets/jobs/round-rock-tx-bilingual-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/9b74OlTLhFA=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-20"
+    },
+    {
+      "job_id": "pRtSEo80joU=",
+      "slug": "mentor-oh-licensed-sales",
+      "url": "https://insurancecareershub.com/j/mentor-oh-licensed-sales/",
+      "filled": false,
+      "label": "Mentor OH Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/mentor-oh-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/pRtSEo80joU=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-20"
+    },
+    {
+      "job_id": "VOVwEqRTuRw=",
+      "slug": "charlotte-nc-medicare-life-sales",
+      "url": "https://insurancecareershub.com/j/charlotte-nc-medicare-life-sales/",
+      "filled": false,
+      "label": "Charlotte NC Sales",
+      "title": "Insurance Sales Representative \u2013 Medicare and Life",
+      "og_image": "https://insurancecareershub.com/assets/jobs/charlotte-nc-medicare-life-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/VOVwEqRTuRw=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-20"
+    },
     {
       "job_id": "xHsW3AzoMc0=",
       "slug": "folsom-ca-licensed-sales",
@@ -2219,11 +2370,11 @@
       "job_id": "wci2lWqbjPk=",
       "slug": "role-wci2lw",
       "url": "https://insurancecareershub.com/j/role-wci2lw/",
-      "filled": true,
-      "label": "Role",
+      "filled": false,
+      "label": "Cottonwood Heights UT Role",
       "title": "",
       "og_image": "https://insurancecareershub.com/assets/og.jpg",
-      "fb_tracked": "",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/wci2lWqbjPk=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-10-28"
     }
   ]
