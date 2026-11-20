@@ -1,10 +1,16 @@
 {
-  "updated": "2026-11-19T07:33:42-06:00",
-  "updated_label": "2026-11-19 7:33 AM CT",
-  "count": 93,
+  "updated": "2026-11-20T07:36:53-06:00",
+  "updated_label": "2026-11-20 7:36 AM CT",
+  "count": 89,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
-  "skipped": [],
+  "skipped": [
+    {
+      "job_id": "wci2lWqbjPk=",
+      "label": "Cottonwood Heights UT Role",
+      "reason": "redirect:https://staffmyagency.com/"
+    }
+  ],
   "excluded_ids": [
     "2pOJ7I69UPI=",
     "4qfvrFk0bio=",
@@ -22,6 +28,8 @@
     "GTB2RtaW6sI=",
     "GVtLvEFwNFo=",
     "IE0U0RseznE=",
+    "Ih0tzn5P47g=",
+    "IzP3AZ350MI=",
     "J0Fo88ikfEQ=",
     "KE_e1ueq_Z4=",
     "M7yB_XaE3Sw=",
@@ -29,6 +37,7 @@
     "Mq4XLS5UhAU=",
     "NpU0MLsXmy8=",
     "OflVjeN4a4E=",
+    "Rz3eXhQg7DU=",
     "S2V9XN6d3GA=",
     "SGA_9YOHHW0=",
     "Slf-ekzkTjA=",
@@ -36,6 +45,7 @@
     "VEj8u5l9W_4=",
     "XilO2zJZOX8=",
     "Y6ep-CjRoPE=",
+    "YNNOm1Vz2Hg=",
     "ZKJfA4JKKlk=",
     "aknnR5lwO0M=",
     "axH2H5Y93Aw=",
@@ -48,8 +58,10 @@
     "hzut9EUj3RA=",
     "jiVc1ZZ9Rm0=",
     "kv4tp_9q_EY=",
+    "loYNRJtHsaE=",
     "mGtVkwOATTQ=",
     "mMo0fayvEz8=",
+    "n2ER7ghkii0=",
     "nByxnibpX04=",
     "qkGW5RGwnNw=",
     "r8f47md9_IY=",
@@ -66,58 +78,6 @@
   ],
   "jobs": [
     {
-      "job_id": "8-lMH6QVwa8=",
-      "label": "Cincinnati OH Front Office Social",
-      "title": "Front Office / Social Media Marketing",
-      "city": "Cincinnati",
-      "state": "OH",
-      "slug": "cincinnati-oh-front-office-social",
-      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-front-office-social/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/8-lMH6QVwa8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-19",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "J9quGM0v2SY=",
-      "label": "Cincinnati OH Customer Retention Specialist",
-      "title": "Customer Retention Specialist",
-      "city": "Cincinnati",
-      "state": "OH",
-      "slug": "cincinnati-oh-customer-retention",
-      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-customer-retention/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/J9quGM0v2SY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-19",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "hsMMd3gsM4Y=",
-      "label": "Cincinnati OH Sales",
-      "title": "Licensed Insurance Sales Representative",
-      "city": "Cincinnati",
-      "state": "OH",
-      "slug": "cincinnati-oh-licensed-sales",
-      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-licensed-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/hsMMd3gsM4Y=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-19",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "GZ_WVlCj2CU=",
-      "label": "Cincinnati OH CSR",
-      "title": "Licensed Insurance Customer Service",
-      "city": "Cincinnati",
-      "state": "OH",
-      "slug": "cincinnati-oh-licensed-csr",
-      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-licensed-csr/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/GZ_WVlCj2CU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-19",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "xHsW3AzoMc0=",
       "label": "Folsom CA Sales",
       "title": "Property & Casualty Licensed Insurance Sales",
@@ -127,7 +87,7 @@
       "job_page": "https://insurancecareershub.com/j/folsom-ca-licensed-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/xHsW3AzoMc0=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-19",
-      "ig_url": null,
+      "ig_url": "skipped-ratelimit",
       "open_check": "apply_now"
     },
     {
@@ -140,8 +100,60 @@
       "job_page": "https://insurancecareershub.com/j/phoenix-az-licensed-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/b3arroGz9DQ=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-19",
-      "ig_url": null,
+      "ig_url": "skipped-ratelimit",
       "open_check": "apply_now"
+    },
+    {
+      "job_id": "hsMMd3gsM4Y=",
+      "label": "Cincinnati OH Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "city": "Cincinnati",
+      "state": "OH",
+      "slug": "cincinnati-oh-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/hsMMd3gsM4Y=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": "skipped-ratelimit",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "GZ_WVlCj2CU=",
+      "label": "Cincinnati OH CSR",
+      "title": "Licensed Insurance Customer Service",
+      "city": "Cincinnati",
+      "state": "OH",
+      "slug": "cincinnati-oh-licensed-csr",
+      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-licensed-csr/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/GZ_WVlCj2CU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": "https://www.instagram.com/p/Df70VfnjcbS/",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "J9quGM0v2SY=",
+      "label": "Cincinnati OH Customer Retention Specialist",
+      "title": "Customer Retention Specialist",
+      "city": "Cincinnati",
+      "state": "OH",
+      "slug": "cincinnati-oh-customer-retention",
+      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-customer-retention/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/J9quGM0v2SY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": "https://www.instagram.com/p/Df7QQuqFyyB/",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "8-lMH6QVwa8=",
+      "label": "Cincinnati OH Front Office Social",
+      "title": "Front Office / Social Media Marketing",
+      "city": "Cincinnati",
+      "state": "OH",
+      "slug": "cincinnati-oh-front-office-social",
+      "job_page": "https://insurancecareershub.com/j/cincinnati-oh-front-office-social/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/8-lMH6QVwa8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-19",
+      "ig_url": "https://www.instagram.com/p/Df7M37_FzoI/",
+      "open_check": "apply_now_recheck"
     },
     {
       "job_id": "VzVV1Vp3CdQ=",
@@ -781,19 +793,6 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "YNNOm1Vz2Hg=",
-      "label": "Elmira NY Sales",
-      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
-      "city": "Elmira",
-      "state": "NY",
-      "slug": "elmira-ny",
-      "job_page": "https://insurancecareershub.com/j/elmira-ny/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/YNNOm1Vz2Hg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-04",
-      "ig_url": "https://www.instagram.com/p/DfUxz0UDfx6/",
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "AQgohs-Olwk=",
       "label": "Montgomery TX Sales",
       "title": "Property and Casualty Insurance Sales Representative",
@@ -856,32 +855,6 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/m2aIQn1lQrI=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-04",
       "ig_url": "https://www.instagram.com/p/DfUlxDMm1pb/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "loYNRJtHsaE=",
-      "label": "Staten Island NY Acquisition",
-      "title": "Acquisition Specialist - State Farm Agent Team Member",
-      "city": "Staten Island",
-      "state": "NY",
-      "slug": "staten-island-ny-acq",
-      "job_page": "https://insurancecareershub.com/j/staten-island-ny-acq/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/loYNRJtHsaE=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-03",
-      "ig_url": "https://www.instagram.com/p/DfS4z-cl_dL/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "Rz3eXhQg7DU=",
-      "label": "Staten Island NY BDR",
-      "title": "Business Development Representative - State Farm Agent Team Member",
-      "city": "Staten Island",
-      "state": "NY",
-      "slug": "staten-island-ny-bdr",
-      "job_page": "https://insurancecareershub.com/j/staten-island-ny-bdr/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/Rz3eXhQg7DU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-03",
-      "ig_url": "https://www.instagram.com/p/DfS2SgJl64f/",
       "open_check": "apply_now"
     },
     {
@@ -1260,42 +1233,29 @@
       "date": "2026-10-28",
       "ig_url": "https://www.instagram.com/p/DfCghjBl9ED",
       "open_check": "apply_now"
-    },
-    {
-      "job_id": "wci2lWqbjPk=",
-      "label": "Cottonwood Heights UT Role",
-      "title": "",
-      "city": "Cottonwood Heights",
-      "state": "UT",
-      "slug": "cottonwood-heights-ut-role-wci2lw",
-      "job_page": "https://insurancecareershub.com/j/cottonwood-heights-ut-role-wci2lw/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/wci2lWqbjPk=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-10-28",
-      "ig_url": "https://www.instagram.com/p/DfCj9Q1F1Eu",
-      "open_check": "apply_now"
     }
   ],
   "job_pages": [
     {
-      "job_id": "8-lMH6QVwa8=",
-      "slug": "cincinnati-oh-front-office-social",
-      "url": "https://insurancecareershub.com/j/cincinnati-oh-front-office-social/",
+      "job_id": "xHsW3AzoMc0=",
+      "slug": "folsom-ca-licensed-sales",
+      "url": "https://insurancecareershub.com/j/folsom-ca-licensed-sales/",
       "filled": false,
-      "label": "Cincinnati OH Front Office Social",
-      "title": "Front Office / Social Media Marketing",
-      "og_image": "https://insurancecareershub.com/assets/jobs/cincinnati-oh-front-office-social.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/8-lMH6QVwa8=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Folsom CA Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "og_image": "https://insurancecareershub.com/assets/jobs/folsom-ca-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/xHsW3AzoMc0=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-19"
     },
     {
-      "job_id": "J9quGM0v2SY=",
-      "slug": "cincinnati-oh-customer-retention",
-      "url": "https://insurancecareershub.com/j/cincinnati-oh-customer-retention/",
+      "job_id": "b3arroGz9DQ=",
+      "slug": "phoenix-az-licensed-sales",
+      "url": "https://insurancecareershub.com/j/phoenix-az-licensed-sales/",
       "filled": false,
-      "label": "Cincinnati OH Customer Retention Specialist",
-      "title": "Customer Retention Specialist",
-      "og_image": "https://insurancecareershub.com/assets/jobs/cincinnati-oh-customer-retention.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/J9quGM0v2SY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Phoenix AZ Sales",
+      "title": "Insurance Sales Representative - Phoenix, AZ (P&C Licensed)",
+      "og_image": "https://insurancecareershub.com/assets/jobs/phoenix-az-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/b3arroGz9DQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-19"
     },
     {
@@ -1321,25 +1281,25 @@
       "date": "2026-11-19"
     },
     {
-      "job_id": "xHsW3AzoMc0=",
-      "slug": "folsom-ca-licensed-sales",
-      "url": "https://insurancecareershub.com/j/folsom-ca-licensed-sales/",
+      "job_id": "J9quGM0v2SY=",
+      "slug": "cincinnati-oh-customer-retention",
+      "url": "https://insurancecareershub.com/j/cincinnati-oh-customer-retention/",
       "filled": false,
-      "label": "Folsom CA Sales",
-      "title": "Property & Casualty Licensed Insurance Sales",
-      "og_image": "https://insurancecareershub.com/assets/jobs/folsom-ca-licensed-sales.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/xHsW3AzoMc0=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Cincinnati OH Customer Retention Specialist",
+      "title": "Customer Retention Specialist",
+      "og_image": "https://insurancecareershub.com/assets/jobs/cincinnati-oh-customer-retention.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/J9quGM0v2SY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-19"
     },
     {
-      "job_id": "b3arroGz9DQ=",
-      "slug": "phoenix-az-licensed-sales",
-      "url": "https://insurancecareershub.com/j/phoenix-az-licensed-sales/",
+      "job_id": "8-lMH6QVwa8=",
+      "slug": "cincinnati-oh-front-office-social",
+      "url": "https://insurancecareershub.com/j/cincinnati-oh-front-office-social/",
       "filled": false,
-      "label": "Phoenix AZ Sales",
-      "title": "Insurance Sales Representative - Phoenix, AZ (P&C Licensed)",
-      "og_image": "https://insurancecareershub.com/assets/jobs/phoenix-az-licensed-sales.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/b3arroGz9DQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Cincinnati OH Front Office Social",
+      "title": "Front Office / Social Media Marketing",
+      "og_image": "https://insurancecareershub.com/assets/jobs/cincinnati-oh-front-office-social.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/8-lMH6QVwa8=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-19"
     },
     {
@@ -1893,17 +1853,6 @@
       "date": "2026-11-05"
     },
     {
-      "job_id": "YNNOm1Vz2Hg=",
-      "slug": "elmira-ny",
-      "url": "https://insurancecareershub.com/j/elmira-ny/",
-      "filled": false,
-      "label": "Elmira NY Sales",
-      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
-      "og_image": "https://insurancecareershub.com/assets/jobs/elmira-ny.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/YNNOm1Vz2Hg=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-04"
-    },
-    {
       "job_id": "AQgohs-Olwk=",
       "slug": "montgomery-tx",
       "url": "https://insurancecareershub.com/j/montgomery-tx/",
@@ -1957,28 +1906,6 @@
       "og_image": "https://insurancecareershub.com/assets/jobs/boca-raton-fl.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/m2aIQn1lQrI=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-04"
-    },
-    {
-      "job_id": "loYNRJtHsaE=",
-      "slug": "staten-island-ny-acq",
-      "url": "https://insurancecareershub.com/j/staten-island-ny-acq/",
-      "filled": false,
-      "label": "Staten Island NY Acquisition",
-      "title": "Acquisition Specialist - State Farm Agent Team Member",
-      "og_image": "https://insurancecareershub.com/assets/jobs/staten-island-ny-acq.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/loYNRJtHsaE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-03"
-    },
-    {
-      "job_id": "Rz3eXhQg7DU=",
-      "slug": "staten-island-ny-bdr",
-      "url": "https://insurancecareershub.com/j/staten-island-ny-bdr/",
-      "filled": false,
-      "label": "Staten Island NY BDR",
-      "title": "Business Development Representative - State Farm Agent Team Member",
-      "og_image": "https://insurancecareershub.com/assets/jobs/staten-island-ny-bdr.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/Rz3eXhQg7DU=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-03"
     },
     {
       "job_id": "qcrYgE1cabI=",
@@ -2292,11 +2219,11 @@
       "job_id": "wci2lWqbjPk=",
       "slug": "role-wci2lw",
       "url": "https://insurancecareershub.com/j/role-wci2lw/",
-      "filled": false,
-      "label": "Cottonwood Heights UT Role",
+      "filled": true,
+      "label": "Role",
       "title": "",
       "og_image": "https://insurancecareershub.com/assets/og.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/wci2lWqbjPk=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "fb_tracked": "",
       "date": "2026-10-28"
     }
   ]
