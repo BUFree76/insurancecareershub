@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-20T07:37:38-06:00",
-  "updated_label": "2026-11-20 7:37 AM CT",
-  "count": 96,
+  "updated": "2026-11-23T07:28:52-06:00",
+  "updated_label": "2026-11-23 7:28 AM CT",
+  "count": 94,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
-  "skipped": [],
+  "skipped": [
+    {
+      "job_id": "b3arroGz9DQ=",
+      "label": "Phoenix AZ Sales",
+      "reason": "redirect:https://staffmyagency.com/_recheck_fail"
+    }
+  ],
   "excluded_ids": [
     "2pOJ7I69UPI=",
+    "4c2Jx8_0NMY=",
     "4qfvrFk0bio=",
     "525ZmDYT8n0=",
     "5EBakd5OQCw=",
@@ -48,6 +55,7 @@
     "fGMXNrAkOQs=",
     "fRvNKsi4JoU=",
     "gwXez75FGy0=",
+    "h1lYxkLZkgI=",
     "hHl-xBu48IQ=",
     "hzut9EUj3RA=",
     "jiVc1ZZ9Rm0=",
@@ -57,6 +65,7 @@
     "mMo0fayvEz8=",
     "n2ER7ghkii0=",
     "nByxnibpX04=",
+    "qG6JCoHFEeo=",
     "qkGW5RGwnNw=",
     "r8f47md9_IY=",
     "rFpClkYTRPc=",
@@ -72,6 +81,19 @@
   ],
   "jobs": [
     {
+      "job_id": "VOVwEqRTuRw=",
+      "label": "Charlotte NC Sales",
+      "title": "Insurance Sales Representative \u2013 Medicare and Life",
+      "city": "Charlotte",
+      "state": "NC",
+      "slug": "charlotte-nc-medicare-life-sales",
+      "job_page": "https://insurancecareershub.com/j/charlotte-nc-medicare-life-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/VOVwEqRTuRw=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-20",
+      "ig_url": "skipped",
+      "open_check": "apply_now"
+    },
+    {
       "job_id": "K4dOc5I_zAo=",
       "label": "Haltom City TX Sales",
       "title": "Licensed Insurance Sales Representative",
@@ -81,7 +103,7 @@
       "job_page": "https://insurancecareershub.com/j/haltom-city-tx-licensed-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/K4dOc5I_zAo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-20",
-      "ig_url": null,
+      "ig_url": "skipped",
       "open_check": "apply_now"
     },
     {
@@ -94,7 +116,7 @@
       "job_page": "https://insurancecareershub.com/j/haltom-city-tx-receptionist-pt/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/l0EEH3YtEV8=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-20",
-      "ig_url": null,
+      "ig_url": "skipped",
       "open_check": "apply_now"
     },
     {
@@ -107,20 +129,7 @@
       "job_page": "https://insurancecareershub.com/j/hewlett-ny-insurance-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/cw85J5C3vJo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-20",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "9b74OlTLhFA=",
-      "label": "Round Rock TX Bilingual",
-      "title": "Bilingual Insurance Sales Representative - Spanish",
-      "city": "Round Rock",
-      "state": "TX",
-      "slug": "round-rock-tx-bilingual-sales",
-      "job_page": "https://insurancecareershub.com/j/round-rock-tx-bilingual-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/9b74OlTLhFA=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-20",
-      "ig_url": null,
+      "ig_url": "likely_posted_verify",
       "open_check": "apply_now"
     },
     {
@@ -133,20 +142,20 @@
       "job_page": "https://insurancecareershub.com/j/mentor-oh-licensed-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/pRtSEo80joU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-20",
-      "ig_url": null,
+      "ig_url": "likely_posted_verify",
       "open_check": "apply_now"
     },
     {
-      "job_id": "VOVwEqRTuRw=",
-      "label": "Charlotte NC Sales",
-      "title": "Insurance Sales Representative \u2013 Medicare and Life",
-      "city": "Charlotte",
-      "state": "NC",
-      "slug": "charlotte-nc-medicare-life-sales",
-      "job_page": "https://insurancecareershub.com/j/charlotte-nc-medicare-life-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/VOVwEqRTuRw=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "job_id": "9b74OlTLhFA=",
+      "label": "Round Rock TX Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Spanish",
+      "city": "Round Rock",
+      "state": "TX",
+      "slug": "round-rock-tx-bilingual-sales",
+      "job_page": "https://insurancecareershub.com/j/round-rock-tx-bilingual-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/9b74OlTLhFA=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-20",
-      "ig_url": null,
+      "ig_url": "likely_posted_verify",
       "open_check": "apply_now"
     },
     {
@@ -159,21 +168,8 @@
       "job_page": "https://insurancecareershub.com/j/folsom-ca-licensed-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/xHsW3AzoMc0=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-19",
-      "ig_url": "skipped-ratelimit",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "b3arroGz9DQ=",
-      "label": "Phoenix AZ Sales",
-      "title": "Insurance Sales Representative - Phoenix, AZ (P&C Licensed)",
-      "city": "Phoenix",
-      "state": "AZ",
-      "slug": "phoenix-az-licensed-sales",
-      "job_page": "https://insurancecareershub.com/j/phoenix-az-licensed-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/b3arroGz9DQ=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-19",
-      "ig_url": "skipped-ratelimit",
-      "open_check": "apply_now"
+      "ig_url": "https://www.instagram.com/p/Df-AAiJl8t6/",
+      "open_check": "apply_now_recheck"
     },
     {
       "job_id": "hsMMd3gsM4Y=",
@@ -185,7 +181,7 @@
       "job_page": "https://insurancecareershub.com/j/cincinnati-oh-licensed-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/hsMMd3gsM4Y=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-19",
-      "ig_url": "skipped-ratelimit",
+      "ig_url": "https://www.instagram.com/p/Df94_n_lyqM/",
       "open_check": "apply_now"
     },
     {
@@ -459,19 +455,6 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/haKqlA_ANxw=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-13",
       "ig_url": "https://www.instagram.com/p/DfrwXazl1xc/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "h1lYxkLZkgI=",
-      "label": "Madison WI Sales",
-      "title": "Licensed Insurance Sales Representative",
-      "city": "Madison",
-      "state": "WI",
-      "slug": "madison-wi",
-      "job_page": "https://insurancecareershub.com/j/madison-wi/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/h1lYxkLZkgI=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-12",
-      "ig_url": "https://www.instagram.com/p/DfsQBw5l52K/",
       "open_check": "apply_now"
     },
     {
@@ -1322,6 +1305,17 @@
   ],
   "job_pages": [
     {
+      "job_id": "VOVwEqRTuRw=",
+      "slug": "charlotte-nc-medicare-life-sales",
+      "url": "https://insurancecareershub.com/j/charlotte-nc-medicare-life-sales/",
+      "filled": false,
+      "label": "Charlotte NC Sales",
+      "title": "Insurance Sales Representative \u2013 Medicare and Life",
+      "og_image": "https://insurancecareershub.com/assets/jobs/charlotte-nc-medicare-life-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/VOVwEqRTuRw=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-20"
+    },
+    {
       "job_id": "K4dOc5I_zAo=",
       "slug": "haltom-city-tx-licensed-sales",
       "url": "https://insurancecareershub.com/j/haltom-city-tx-licensed-sales/",
@@ -1355,17 +1349,6 @@
       "date": "2026-11-20"
     },
     {
-      "job_id": "9b74OlTLhFA=",
-      "slug": "round-rock-tx-bilingual-sales",
-      "url": "https://insurancecareershub.com/j/round-rock-tx-bilingual-sales/",
-      "filled": false,
-      "label": "Round Rock TX Bilingual",
-      "title": "Bilingual Insurance Sales Representative - Spanish",
-      "og_image": "https://insurancecareershub.com/assets/jobs/round-rock-tx-bilingual-sales.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/9b74OlTLhFA=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-20"
-    },
-    {
       "job_id": "pRtSEo80joU=",
       "slug": "mentor-oh-licensed-sales",
       "url": "https://insurancecareershub.com/j/mentor-oh-licensed-sales/",
@@ -1377,14 +1360,14 @@
       "date": "2026-11-20"
     },
     {
-      "job_id": "VOVwEqRTuRw=",
-      "slug": "charlotte-nc-medicare-life-sales",
-      "url": "https://insurancecareershub.com/j/charlotte-nc-medicare-life-sales/",
+      "job_id": "9b74OlTLhFA=",
+      "slug": "round-rock-tx-bilingual-sales",
+      "url": "https://insurancecareershub.com/j/round-rock-tx-bilingual-sales/",
       "filled": false,
-      "label": "Charlotte NC Sales",
-      "title": "Insurance Sales Representative \u2013 Medicare and Life",
-      "og_image": "https://insurancecareershub.com/assets/jobs/charlotte-nc-medicare-life-sales.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/VOVwEqRTuRw=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Round Rock TX Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Spanish",
+      "og_image": "https://insurancecareershub.com/assets/jobs/round-rock-tx-bilingual-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/9b74OlTLhFA=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-20"
     },
     {
@@ -1402,11 +1385,11 @@
       "job_id": "b3arroGz9DQ=",
       "slug": "phoenix-az-licensed-sales",
       "url": "https://insurancecareershub.com/j/phoenix-az-licensed-sales/",
-      "filled": false,
+      "filled": true,
       "label": "Phoenix AZ Sales",
       "title": "Insurance Sales Representative - Phoenix, AZ (P&C Licensed)",
       "og_image": "https://insurancecareershub.com/assets/jobs/phoenix-az-licensed-sales.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/b3arroGz9DQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "fb_tracked": "",
       "date": "2026-11-19"
     },
     {
