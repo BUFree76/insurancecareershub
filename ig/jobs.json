@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-23T07:28:52-06:00",
-  "updated_label": "2026-11-23 7:28 AM CT",
-  "count": 94,
+  "updated": "2026-11-23T07:30:12-06:00",
+  "updated_label": "2026-11-23 7:30 AM CT",
+  "count": 100,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
   "skipped": [
@@ -80,6 +80,84 @@
     "zVO1h7wAG88="
   ],
   "jobs": [
+    {
+      "job_id": "qA1Q6bJyfYY=",
+      "label": "Houston TX Sales",
+      "title": "Outside Sales Representative",
+      "city": "Houston",
+      "state": "TX",
+      "slug": "houston-tx-outside-sales",
+      "job_page": "https://insurancecareershub.com/j/houston-tx-outside-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/qA1Q6bJyfYY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-23",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "vx2fyr0JvIw=",
+      "label": "Mandeville LA Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "city": "Mandeville",
+      "state": "LA",
+      "slug": "mandeville-la-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/mandeville-la-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/vx2fyr0JvIw=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-23",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "MWvNCA93Hpc=",
+      "label": "Lincolnton NC Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "city": "Lincolnton",
+      "state": "NC",
+      "slug": "lincolnton-nc-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/lincolnton-nc-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/MWvNCA93Hpc=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-23",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "wgy_D2ShBmo=",
+      "label": "Sylvania OH Sales",
+      "title": "Commercial Sales Specialist",
+      "city": "Sylvania",
+      "state": "OH",
+      "slug": "sylvania-oh-commercial-sales",
+      "job_page": "https://insurancecareershub.com/j/sylvania-oh-commercial-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/wgy_D2ShBmo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-23",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "nSY_6NEAaBU=",
+      "label": "Staten Island NY Account Rep",
+      "title": "Account Representative - State Farm Agent Team Member",
+      "city": "Staten Island",
+      "state": "NY",
+      "slug": "staten-island-ny-account-rep",
+      "job_page": "https://insurancecareershub.com/j/staten-island-ny-account-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/nSY_6NEAaBU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-23",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "SXcsJVVne-U=",
+      "label": "Newton MA Financial Services Representative",
+      "title": "Financial Services Representative",
+      "city": "Newton",
+      "state": "MA",
+      "slug": "newton-ma-financial-services-rep",
+      "job_page": "https://insurancecareershub.com/j/newton-ma-financial-services-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/SXcsJVVne-U=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-23",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
     {
       "job_id": "VOVwEqRTuRw=",
       "label": "Charlotte NC Sales",
@@ -169,7 +247,7 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/xHsW3AzoMc0=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-19",
       "ig_url": "https://www.instagram.com/p/Df-AAiJl8t6/",
-      "open_check": "apply_now_recheck"
+      "open_check": "apply_now"
     },
     {
       "job_id": "hsMMd3gsM4Y=",
@@ -1304,6 +1382,72 @@
     }
   ],
   "job_pages": [
+    {
+      "job_id": "qA1Q6bJyfYY=",
+      "slug": "houston-tx-outside-sales",
+      "url": "https://insurancecareershub.com/j/houston-tx-outside-sales/",
+      "filled": false,
+      "label": "Houston TX Sales",
+      "title": "Outside Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/houston-tx-outside-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/qA1Q6bJyfYY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-23"
+    },
+    {
+      "job_id": "vx2fyr0JvIw=",
+      "slug": "mandeville-la-licensed-sales",
+      "url": "https://insurancecareershub.com/j/mandeville-la-licensed-sales/",
+      "filled": false,
+      "label": "Mandeville LA Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/mandeville-la-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/vx2fyr0JvIw=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-23"
+    },
+    {
+      "job_id": "MWvNCA93Hpc=",
+      "slug": "lincolnton-nc-licensed-sales",
+      "url": "https://insurancecareershub.com/j/lincolnton-nc-licensed-sales/",
+      "filled": false,
+      "label": "Lincolnton NC Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/lincolnton-nc-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/MWvNCA93Hpc=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-23"
+    },
+    {
+      "job_id": "wgy_D2ShBmo=",
+      "slug": "sylvania-oh-commercial-sales",
+      "url": "https://insurancecareershub.com/j/sylvania-oh-commercial-sales/",
+      "filled": false,
+      "label": "Sylvania OH Sales",
+      "title": "Commercial Sales Specialist",
+      "og_image": "https://insurancecareershub.com/assets/jobs/sylvania-oh-commercial-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/wgy_D2ShBmo=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-23"
+    },
+    {
+      "job_id": "nSY_6NEAaBU=",
+      "slug": "staten-island-ny-account-rep",
+      "url": "https://insurancecareershub.com/j/staten-island-ny-account-rep/",
+      "filled": false,
+      "label": "Staten Island NY Account Rep",
+      "title": "Account Representative - State Farm Agent Team Member",
+      "og_image": "https://insurancecareershub.com/assets/jobs/staten-island-ny-account-rep.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/nSY_6NEAaBU=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-23"
+    },
+    {
+      "job_id": "SXcsJVVne-U=",
+      "slug": "newton-ma-financial-services-rep",
+      "url": "https://insurancecareershub.com/j/newton-ma-financial-services-rep/",
+      "filled": false,
+      "label": "Newton MA Financial Services Representative",
+      "title": "Financial Services Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/newton-ma-financial-services-rep.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/SXcsJVVne-U=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-23"
+    },
     {
       "job_id": "VOVwEqRTuRw=",
       "slug": "charlotte-nc-medicare-life-sales",
