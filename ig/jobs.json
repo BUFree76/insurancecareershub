@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T07:29:21-06:00",
-  "updated_label": "2026-11-24 7:29 AM CT",
+  "updated": "2026-11-24T08:02:37-06:00",
+  "updated_label": "2026-11-24 8:02 AM CT",
   "count": 106,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
@@ -89,32 +89,6 @@
   ],
   "jobs": [
     {
-      "job_id": "A0xu2l_fCfY=",
-      "label": "Collierville TN CSR",
-      "title": "Insurance Customer Service Representative",
-      "city": "Collierville",
-      "state": "TN",
-      "slug": "collierville-tn-customer-service-rep",
-      "job_page": "https://insurancecareershub.com/j/collierville-tn-customer-service-rep/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/A0xu2l_fCfY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-24",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "O2dlIrSn5tc=",
-      "label": "Highlands Ranch CO Sales",
-      "title": "Financial Services & Insurance Sales Representative",
-      "city": "Highlands Ranch",
-      "state": "CO",
-      "slug": "highlands-ranch-co-financial-sales",
-      "job_page": "https://insurancecareershub.com/j/highlands-ranch-co-financial-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/O2dlIrSn5tc=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-24",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "cdFfsHBxsKA=",
       "label": "Englewood CO Sales & Service",
       "title": "Insurance Sales/Service Representative",
@@ -123,19 +97,6 @@
       "slug": "englewood-co-sales-service-rep",
       "job_page": "https://insurancecareershub.com/j/englewood-co-sales-service-rep/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/cdFfsHBxsKA=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-24",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "b_ChsiksTME=",
-      "label": "Centennial CO Sales & Service",
-      "title": "Insurance Sales/Service Representative",
-      "city": "Centennial",
-      "state": "CO",
-      "slug": "centennial-co-sales-service-rep",
-      "job_page": "https://insurancecareershub.com/j/centennial-co-sales-service-rep/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/b_ChsiksTME=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-24",
       "ig_url": null,
       "open_check": "apply_now"
@@ -154,6 +115,45 @@
       "open_check": "apply_now"
     },
     {
+      "job_id": "A0xu2l_fCfY=",
+      "label": "Collierville TN CSR",
+      "title": "Insurance Customer Service Representative",
+      "city": "Collierville",
+      "state": "TN",
+      "slug": "collierville-tn-customer-service-rep",
+      "job_page": "https://insurancecareershub.com/j/collierville-tn-customer-service-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/A0xu2l_fCfY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-24",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "b_ChsiksTME=",
+      "label": "Centennial CO Sales & Service",
+      "title": "Insurance Sales/Service Representative",
+      "city": "Centennial",
+      "state": "CO",
+      "slug": "centennial-co-sales-service-rep",
+      "job_page": "https://insurancecareershub.com/j/centennial-co-sales-service-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/b_ChsiksTME=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-24",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "O2dlIrSn5tc=",
+      "label": "Highlands Ranch CO Sales",
+      "title": "Financial Services & Insurance Sales Representative",
+      "city": "Highlands Ranch",
+      "state": "CO",
+      "slug": "highlands-ranch-co-financial-sales",
+      "job_page": "https://insurancecareershub.com/j/highlands-ranch-co-financial-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/O2dlIrSn5tc=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-24",
+      "ig_url": "likely_posted_verify",
+      "open_check": "apply_now"
+    },
+    {
       "job_id": "ELz40ebYNpg=",
       "label": "Tolleson AZ Bilingual",
       "title": "Bilingual Insurance Sales Representative - Spanish",
@@ -163,21 +163,8 @@
       "job_page": "https://insurancecareershub.com/j/tolleson-az-bilingual-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/ELz40ebYNpg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-24",
-      "ig_url": null,
+      "ig_url": "likely_posted_verify",
       "open_check": "apply_now"
-    },
-    {
-      "job_id": "wgy_D2ShBmo=",
-      "label": "Sylvania OH Sales",
-      "title": "Commercial Sales Specialist",
-      "city": "Sylvania",
-      "state": "OH",
-      "slug": "sylvania-oh-commercial-sales",
-      "job_page": "https://insurancecareershub.com/j/sylvania-oh-commercial-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/wgy_D2ShBmo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-23",
-      "ig_url": null,
-      "open_check": "apply_now_recheck"
     },
     {
       "job_id": "SXcsJVVne-U=",
@@ -214,6 +201,19 @@
       "slug": "staten-island-ny-account-rep",
       "job_page": "https://insurancecareershub.com/j/staten-island-ny-account-rep/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/nSY_6NEAaBU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-23",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "wgy_D2ShBmo=",
+      "label": "Sylvania OH Sales",
+      "title": "Commercial Sales Specialist",
+      "city": "Sylvania",
+      "state": "OH",
+      "slug": "sylvania-oh-commercial-sales",
+      "job_page": "https://insurancecareershub.com/j/sylvania-oh-commercial-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/wgy_D2ShBmo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-23",
       "ig_url": null,
       "open_check": "apply_now"
@@ -1469,28 +1469,6 @@
   ],
   "job_pages": [
     {
-      "job_id": "A0xu2l_fCfY=",
-      "slug": "collierville-tn-customer-service-rep",
-      "url": "https://insurancecareershub.com/j/collierville-tn-customer-service-rep/",
-      "filled": false,
-      "label": "Collierville TN CSR",
-      "title": "Insurance Customer Service Representative",
-      "og_image": "https://insurancecareershub.com/assets/jobs/collierville-tn-customer-service-rep.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/A0xu2l_fCfY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-24"
-    },
-    {
-      "job_id": "O2dlIrSn5tc=",
-      "slug": "highlands-ranch-co-financial-sales",
-      "url": "https://insurancecareershub.com/j/highlands-ranch-co-financial-sales/",
-      "filled": false,
-      "label": "Highlands Ranch CO Sales",
-      "title": "Financial Services & Insurance Sales Representative",
-      "og_image": "https://insurancecareershub.com/assets/jobs/highlands-ranch-co-financial-sales.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/O2dlIrSn5tc=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-24"
-    },
-    {
       "job_id": "cdFfsHBxsKA=",
       "slug": "englewood-co-sales-service-rep",
       "url": "https://insurancecareershub.com/j/englewood-co-sales-service-rep/",
@@ -1499,6 +1477,28 @@
       "title": "Insurance Sales/Service Representative",
       "og_image": "https://insurancecareershub.com/assets/jobs/englewood-co-sales-service-rep.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/cdFfsHBxsKA=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-24"
+    },
+    {
+      "job_id": "1X1710X-WhQ=",
+      "slug": "centennial-co-remote-licensed-sales",
+      "url": "https://insurancecareershub.com/j/centennial-co-remote-licensed-sales/",
+      "filled": false,
+      "label": "Centennial CO Sales & Service",
+      "title": "Remote Licensed Sales/Service Representative - State Farm Agency Team Member",
+      "og_image": "https://insurancecareershub.com/assets/jobs/centennial-co-remote-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/1X1710X-WhQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-24"
+    },
+    {
+      "job_id": "A0xu2l_fCfY=",
+      "slug": "collierville-tn-customer-service-rep",
+      "url": "https://insurancecareershub.com/j/collierville-tn-customer-service-rep/",
+      "filled": false,
+      "label": "Collierville TN CSR",
+      "title": "Insurance Customer Service Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/collierville-tn-customer-service-rep.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/A0xu2l_fCfY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-24"
     },
     {
@@ -1513,14 +1513,14 @@
       "date": "2026-11-24"
     },
     {
-      "job_id": "1X1710X-WhQ=",
-      "slug": "centennial-co-remote-licensed-sales",
-      "url": "https://insurancecareershub.com/j/centennial-co-remote-licensed-sales/",
+      "job_id": "O2dlIrSn5tc=",
+      "slug": "highlands-ranch-co-financial-sales",
+      "url": "https://insurancecareershub.com/j/highlands-ranch-co-financial-sales/",
       "filled": false,
-      "label": "Centennial CO Sales & Service",
-      "title": "Remote Licensed Sales/Service Representative - State Farm Agency Team Member",
-      "og_image": "https://insurancecareershub.com/assets/jobs/centennial-co-remote-licensed-sales.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/1X1710X-WhQ=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Highlands Ranch CO Sales",
+      "title": "Financial Services & Insurance Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/highlands-ranch-co-financial-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/O2dlIrSn5tc=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-24"
     },
     {
