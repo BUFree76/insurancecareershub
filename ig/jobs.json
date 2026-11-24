@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-24T08:02:37-06:00",
-  "updated_label": "2026-11-24 8:02 AM CT",
+  "updated": "2026-11-24T08:16:31-06:00",
+  "updated_label": "2026-11-24 8:16 AM CT",
   "count": 106,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
@@ -115,19 +115,6 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "A0xu2l_fCfY=",
-      "label": "Collierville TN CSR",
-      "title": "Insurance Customer Service Representative",
-      "city": "Collierville",
-      "state": "TN",
-      "slug": "collierville-tn-customer-service-rep",
-      "job_page": "https://insurancecareershub.com/j/collierville-tn-customer-service-rep/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/A0xu2l_fCfY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-24",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "b_ChsiksTME=",
       "label": "Centennial CO Sales & Service",
       "title": "Insurance Sales/Service Representative",
@@ -136,6 +123,19 @@
       "slug": "centennial-co-sales-service-rep",
       "job_page": "https://insurancecareershub.com/j/centennial-co-sales-service-rep/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/b_ChsiksTME=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-24",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "A0xu2l_fCfY=",
+      "label": "Collierville TN CSR",
+      "title": "Insurance Customer Service Representative",
+      "city": "Collierville",
+      "state": "TN",
+      "slug": "collierville-tn-customer-service-rep",
+      "job_page": "https://insurancecareershub.com/j/collierville-tn-customer-service-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/A0xu2l_fCfY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-24",
       "ig_url": null,
       "open_check": "apply_now"
@@ -167,19 +167,6 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "SXcsJVVne-U=",
-      "label": "Newton MA Financial Services Representative",
-      "title": "Financial Services Representative",
-      "city": "Newton",
-      "state": "MA",
-      "slug": "newton-ma-financial-services-rep",
-      "job_page": "https://insurancecareershub.com/j/newton-ma-financial-services-rep/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/SXcsJVVne-U=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-23",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "qA1Q6bJyfYY=",
       "label": "Houston TX Sales",
       "title": "Outside Sales Representative",
@@ -188,6 +175,19 @@
       "slug": "houston-tx-outside-sales",
       "job_page": "https://insurancecareershub.com/j/houston-tx-outside-sales/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/qA1Q6bJyfYY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-23",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "SXcsJVVne-U=",
+      "label": "Newton MA Financial Services Representative",
+      "title": "Financial Services Representative",
+      "city": "Newton",
+      "state": "MA",
+      "slug": "newton-ma-financial-services-rep",
+      "job_page": "https://insurancecareershub.com/j/newton-ma-financial-services-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/SXcsJVVne-U=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-23",
       "ig_url": null,
       "open_check": "apply_now"
@@ -1491,17 +1491,6 @@
       "date": "2026-11-24"
     },
     {
-      "job_id": "A0xu2l_fCfY=",
-      "slug": "collierville-tn-customer-service-rep",
-      "url": "https://insurancecareershub.com/j/collierville-tn-customer-service-rep/",
-      "filled": false,
-      "label": "Collierville TN CSR",
-      "title": "Insurance Customer Service Representative",
-      "og_image": "https://insurancecareershub.com/assets/jobs/collierville-tn-customer-service-rep.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/A0xu2l_fCfY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-24"
-    },
-    {
       "job_id": "b_ChsiksTME=",
       "slug": "centennial-co-sales-service-rep",
       "url": "https://insurancecareershub.com/j/centennial-co-sales-service-rep/",
@@ -1510,6 +1499,17 @@
       "title": "Insurance Sales/Service Representative",
       "og_image": "https://insurancecareershub.com/assets/jobs/centennial-co-sales-service-rep.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/b_ChsiksTME=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-24"
+    },
+    {
+      "job_id": "A0xu2l_fCfY=",
+      "slug": "collierville-tn-customer-service-rep",
+      "url": "https://insurancecareershub.com/j/collierville-tn-customer-service-rep/",
+      "filled": false,
+      "label": "Collierville TN CSR",
+      "title": "Insurance Customer Service Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/collierville-tn-customer-service-rep.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/A0xu2l_fCfY=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-24"
     },
     {
