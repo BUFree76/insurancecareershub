@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-25T07:28:49-06:00",
-  "updated_label": "2026-11-25 7:28 AM CT",
-  "count": 112,
+  "updated": "2026-11-25T07:52:11-06:00",
+  "updated_label": "2026-11-25 7:52 AM CT",
+  "count": 111,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
   "skipped": [],
@@ -87,64 +87,13 @@
     "vFKl_IrChHk=",
     "vLPvFcp91GY=",
     "vkpcoIg6dBA=",
+    "vx2fyr0JvIw=",
     "wPHDMh5USfM=",
     "xvx0GYEaTvA=",
     "zELYTMvTeco=",
     "zVO1h7wAG88="
   ],
   "jobs": [
-    {
-      "job_id": "l_DVzMjAEvg=",
-      "label": "Olathe KS Sales",
-      "title": "Licensed Insurance Sales Representative",
-      "city": "Olathe",
-      "state": "KS",
-      "slug": "olathe-ks-licensed-sales-rep",
-      "job_page": "https://insurancecareershub.com/j/olathe-ks-licensed-sales-rep/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/l_DVzMjAEvg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-25",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "WdM3dPQ4JSw=",
-      "label": "Collierville TN Sales",
-      "title": "Insurance Sales Representative",
-      "city": "Collierville",
-      "state": "TN",
-      "slug": "collierville-tn-insurance-sales-rep",
-      "job_page": "https://insurancecareershub.com/j/collierville-tn-insurance-sales-rep/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/WdM3dPQ4JSw=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-25",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "LfKUvMIzK8w=",
-      "label": "Orinda CA CSR",
-      "title": "Licensed Insurance Customer Service",
-      "city": "Orinda",
-      "state": "CA",
-      "slug": "orinda-ca-licensed-customer-service",
-      "job_page": "https://insurancecareershub.com/j/orinda-ca-licensed-customer-service/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/LfKUvMIzK8w=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-25",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "y6YxHaUmH4s=",
-      "label": "Orinda CA Sales",
-      "title": "Licensed Insurance Sales Representative",
-      "city": "Orinda",
-      "state": "CA",
-      "slug": "orinda-ca-licensed-sales-rep",
-      "job_page": "https://insurancecareershub.com/j/orinda-ca-licensed-sales-rep/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/y6YxHaUmH4s=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-25",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
     {
       "job_id": "sZFboBRTXqo=",
       "label": "Park Ridge IL Sales",
@@ -155,7 +104,7 @@
       "job_page": "https://insurancecareershub.com/j/park-ridge-il-sales-rep/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/sZFboBRTXqo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-25",
-      "ig_url": null,
+      "ig_url": "ig_pending",
       "open_check": "apply_now"
     },
     {
@@ -168,7 +117,59 @@
       "job_page": "https://insurancecareershub.com/j/tolleson-az-bilingual-customer-service/",
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/RKyMm8VcTEc=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-25",
-      "ig_url": null,
+      "ig_url": "ig_pending",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "l_DVzMjAEvg=",
+      "label": "Olathe KS Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "city": "Olathe",
+      "state": "KS",
+      "slug": "olathe-ks-licensed-sales-rep",
+      "job_page": "https://insurancecareershub.com/j/olathe-ks-licensed-sales-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/l_DVzMjAEvg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-25",
+      "ig_url": "ig_pending",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "LfKUvMIzK8w=",
+      "label": "Orinda CA CSR",
+      "title": "Licensed Insurance Customer Service",
+      "city": "Orinda",
+      "state": "CA",
+      "slug": "orinda-ca-licensed-customer-service",
+      "job_page": "https://insurancecareershub.com/j/orinda-ca-licensed-customer-service/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/LfKUvMIzK8w=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-25",
+      "ig_url": "ig_pending",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "y6YxHaUmH4s=",
+      "label": "Orinda CA Sales",
+      "title": "Licensed Insurance Sales Representative",
+      "city": "Orinda",
+      "state": "CA",
+      "slug": "orinda-ca-licensed-sales-rep",
+      "job_page": "https://insurancecareershub.com/j/orinda-ca-licensed-sales-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/y6YxHaUmH4s=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-25",
+      "ig_url": "ig_pending",
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "WdM3dPQ4JSw=",
+      "label": "Collierville TN Sales",
+      "title": "Insurance Sales Representative",
+      "city": "Collierville",
+      "state": "TN",
+      "slug": "collierville-tn-insurance-sales-rep",
+      "job_page": "https://insurancecareershub.com/j/collierville-tn-insurance-sales-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/WdM3dPQ4JSw=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-25",
+      "ig_url": "likely_posted_verify",
       "open_check": "apply_now"
     },
     {
@@ -250,19 +251,6 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "qA1Q6bJyfYY=",
-      "label": "Houston TX Sales",
-      "title": "Outside Sales Representative",
-      "city": "Houston",
-      "state": "TX",
-      "slug": "houston-tx-outside-sales",
-      "job_page": "https://insurancecareershub.com/j/houston-tx-outside-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/qA1Q6bJyfYY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-23",
-      "ig_url": null,
-      "open_check": "apply_now"
-    },
-    {
       "job_id": "wgy_D2ShBmo=",
       "label": "Sylvania OH Sales",
       "title": "Commercial Sales Specialist",
@@ -302,6 +290,19 @@
       "open_check": "apply_now"
     },
     {
+      "job_id": "qA1Q6bJyfYY=",
+      "label": "Houston TX Sales",
+      "title": "Outside Sales Representative",
+      "city": "Houston",
+      "state": "TX",
+      "slug": "houston-tx-outside-sales",
+      "job_page": "https://insurancecareershub.com/j/houston-tx-outside-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/qA1Q6bJyfYY=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-23",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
       "job_id": "MWvNCA93Hpc=",
       "label": "Lincolnton NC Sales",
       "title": "Licensed Insurance Sales Representative",
@@ -312,19 +313,6 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/MWvNCA93Hpc=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-23",
       "ig_url": "https://www.instagram.com/p/DgFiL1vF24i/",
-      "open_check": "apply_now"
-    },
-    {
-      "job_id": "vx2fyr0JvIw=",
-      "label": "Mandeville LA Sales",
-      "title": "Licensed Insurance Sales Representative",
-      "city": "Mandeville",
-      "state": "LA",
-      "slug": "mandeville-la-licensed-sales",
-      "job_page": "https://insurancecareershub.com/j/mandeville-la-licensed-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/vx2fyr0JvIw=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
-      "date": "2026-11-23",
-      "ig_url": "https://www.instagram.com/p/DgFfpCBl2yB/",
       "open_check": "apply_now"
     },
     {
@@ -1552,6 +1540,28 @@
   ],
   "job_pages": [
     {
+      "job_id": "sZFboBRTXqo=",
+      "slug": "park-ridge-il-sales-rep",
+      "url": "https://insurancecareershub.com/j/park-ridge-il-sales-rep/",
+      "filled": false,
+      "label": "Park Ridge IL Sales",
+      "title": "Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/park-ridge-il-sales-rep.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/sZFboBRTXqo=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-25"
+    },
+    {
+      "job_id": "RKyMm8VcTEc=",
+      "slug": "tolleson-az-bilingual-customer-service",
+      "url": "https://insurancecareershub.com/j/tolleson-az-bilingual-customer-service/",
+      "filled": false,
+      "label": "Tolleson AZ Bilingual",
+      "title": "Licensed Bilingual Insurance Customer Service - Spanish",
+      "og_image": "https://insurancecareershub.com/assets/jobs/tolleson-az-bilingual-customer-service.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/RKyMm8VcTEc=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-25"
+    },
+    {
       "job_id": "l_DVzMjAEvg=",
       "slug": "olathe-ks-licensed-sales-rep",
       "url": "https://insurancecareershub.com/j/olathe-ks-licensed-sales-rep/",
@@ -1560,17 +1570,6 @@
       "title": "Licensed Insurance Sales Representative",
       "og_image": "https://insurancecareershub.com/assets/jobs/olathe-ks-licensed-sales-rep.jpg",
       "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/l_DVzMjAEvg=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-25"
-    },
-    {
-      "job_id": "WdM3dPQ4JSw=",
-      "slug": "collierville-tn-insurance-sales-rep",
-      "url": "https://insurancecareershub.com/j/collierville-tn-insurance-sales-rep/",
-      "filled": false,
-      "label": "Collierville TN Sales",
-      "title": "Insurance Sales Representative",
-      "og_image": "https://insurancecareershub.com/assets/jobs/collierville-tn-insurance-sales-rep.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/WdM3dPQ4JSw=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-25"
     },
     {
@@ -1596,25 +1595,14 @@
       "date": "2026-11-25"
     },
     {
-      "job_id": "sZFboBRTXqo=",
-      "slug": "park-ridge-il-sales-rep",
-      "url": "https://insurancecareershub.com/j/park-ridge-il-sales-rep/",
+      "job_id": "WdM3dPQ4JSw=",
+      "slug": "collierville-tn-insurance-sales-rep",
+      "url": "https://insurancecareershub.com/j/collierville-tn-insurance-sales-rep/",
       "filled": false,
-      "label": "Park Ridge IL Sales",
-      "title": "Sales Representative",
-      "og_image": "https://insurancecareershub.com/assets/jobs/park-ridge-il-sales-rep.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/sZFboBRTXqo=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
-      "date": "2026-11-25"
-    },
-    {
-      "job_id": "RKyMm8VcTEc=",
-      "slug": "tolleson-az-bilingual-customer-service",
-      "url": "https://insurancecareershub.com/j/tolleson-az-bilingual-customer-service/",
-      "filled": false,
-      "label": "Tolleson AZ Bilingual",
-      "title": "Licensed Bilingual Insurance Customer Service - Spanish",
-      "og_image": "https://insurancecareershub.com/assets/jobs/tolleson-az-bilingual-customer-service.jpg",
-      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/RKyMm8VcTEc=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "label": "Collierville TN Sales",
+      "title": "Insurance Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/collierville-tn-insurance-sales-rep.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/WdM3dPQ4JSw=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
       "date": "2026-11-25"
     },
     {
