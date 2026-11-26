@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T07:34:48-06:00",
-  "updated_label": "2026-11-26 7:34 AM CT",
-  "count": 111,
+  "updated": "2026-11-26T07:36:06-06:00",
+  "updated_label": "2026-11-26 7:36 AM CT",
+  "count": 117,
   "ig_url": "https://insurancecareershub.com/ig/",
   "job_page_pattern": "https://insurancecareershub.com/j/<slug>/",
   "skipped": [],
@@ -100,6 +100,84 @@
   ],
   "jobs": [
     {
+      "job_id": "08LPW68JhNg=",
+      "label": "Park Ridge IL Bilingual",
+      "title": "Bilingual Front Office - Spanish",
+      "city": "Park Ridge",
+      "state": "IL",
+      "slug": "park-ridge-il-bilingual-front-office-spanish",
+      "job_page": "https://insurancecareershub.com/j/park-ridge-il-bilingual-front-office-spanish/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/08LPW68JhNg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-26",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "OjeMIpC5UVg=",
+      "label": "Houston TX Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Spanish",
+      "city": "Houston",
+      "state": "TX",
+      "slug": "houston-tx-bilingual-sales-spanish",
+      "job_page": "https://insurancecareershub.com/j/houston-tx-bilingual-sales-spanish/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/OjeMIpC5UVg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-26",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "l3b1ighPQwE=",
+      "label": "Jonesboro GA Sales",
+      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
+      "city": "Jonesboro",
+      "state": "GA",
+      "slug": "jonesboro-ga-insurance-sales-rep",
+      "job_page": "https://insurancecareershub.com/j/jonesboro-ga-insurance-sales-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/l3b1ighPQwE=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-26",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "lK7kbVVFONg=",
+      "label": "Houston TX Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Vietnamese",
+      "city": "Houston",
+      "state": "TX",
+      "slug": "houston-tx-bilingual-sales-vietnamese",
+      "job_page": "https://insurancecareershub.com/j/houston-tx-bilingual-sales-vietnamese/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/lK7kbVVFONg=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-26",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "X8AWNN33a2c=",
+      "label": "Niantic CT Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "city": "Niantic",
+      "state": "CT",
+      "slug": "niantic-ct-licensed-sales",
+      "job_page": "https://insurancecareershub.com/j/niantic-ct-licensed-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/X8AWNN33a2c=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-26",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
+      "job_id": "2gH52hcmELw=",
+      "label": "Scottsdale AZ Sales",
+      "title": "Insurance Sales Representative",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "slug": "scottsdale-az-insurance-sales-rep",
+      "job_page": "https://insurancecareershub.com/j/scottsdale-az-insurance-sales-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/2gH52hcmELw=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "date": "2026-11-26",
+      "ig_url": null,
+      "open_check": "apply_now"
+    },
+    {
       "job_id": "sZFboBRTXqo=",
       "label": "Park Ridge IL Sales",
       "title": "Sales Representative",
@@ -123,7 +201,7 @@
       "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/RKyMm8VcTEc=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-25",
       "ig_url": "ig_pending",
-      "open_check": "apply_now"
+      "open_check": "apply_now_recheck"
     },
     {
       "job_id": "l_DVzMjAEvg=",
@@ -256,14 +334,14 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "wgy_D2ShBmo=",
-      "label": "Sylvania OH Sales",
-      "title": "Commercial Sales Specialist",
-      "city": "Sylvania",
-      "state": "OH",
-      "slug": "sylvania-oh-commercial-sales",
-      "job_page": "https://insurancecareershub.com/j/sylvania-oh-commercial-sales/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/wgy_D2ShBmo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "job_id": "nSY_6NEAaBU=",
+      "label": "Staten Island NY Account Rep",
+      "title": "Account Representative - State Farm Agent Team Member",
+      "city": "Staten Island",
+      "state": "NY",
+      "slug": "staten-island-ny-account-rep",
+      "job_page": "https://insurancecareershub.com/j/staten-island-ny-account-rep/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/nSY_6NEAaBU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-23",
       "ig_url": null,
       "open_check": "apply_now"
@@ -295,14 +373,14 @@
       "open_check": "apply_now"
     },
     {
-      "job_id": "nSY_6NEAaBU=",
-      "label": "Staten Island NY Account Rep",
-      "title": "Account Representative - State Farm Agent Team Member",
-      "city": "Staten Island",
-      "state": "NY",
-      "slug": "staten-island-ny-account-rep",
-      "job_page": "https://insurancecareershub.com/j/staten-island-ny-account-rep/",
-      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/nSY_6NEAaBU=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
+      "job_id": "wgy_D2ShBmo=",
+      "label": "Sylvania OH Sales",
+      "title": "Commercial Sales Specialist",
+      "city": "Sylvania",
+      "state": "OH",
+      "slug": "sylvania-oh-commercial-sales",
+      "job_page": "https://insurancecareershub.com/j/sylvania-oh-commercial-sales/",
+      "tracked_url": "https://staffmyagency.com/Main/ApplyForJob/wgy_D2ShBmo=/suon7RAzw4M=?utm_source=ich_instagram&utm_campaign=jobpromo&utm_medium=bio_link",
       "date": "2026-11-23",
       "ig_url": null,
       "open_check": "apply_now"
@@ -1544,6 +1622,72 @@
     }
   ],
   "job_pages": [
+    {
+      "job_id": "08LPW68JhNg=",
+      "slug": "park-ridge-il-bilingual-front-office-spanish",
+      "url": "https://insurancecareershub.com/j/park-ridge-il-bilingual-front-office-spanish/",
+      "filled": false,
+      "label": "Park Ridge IL Bilingual",
+      "title": "Bilingual Front Office - Spanish",
+      "og_image": "https://insurancecareershub.com/assets/jobs/park-ridge-il-bilingual-front-office-spanish.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/08LPW68JhNg=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-26"
+    },
+    {
+      "job_id": "OjeMIpC5UVg=",
+      "slug": "houston-tx-bilingual-sales-spanish",
+      "url": "https://insurancecareershub.com/j/houston-tx-bilingual-sales-spanish/",
+      "filled": false,
+      "label": "Houston TX Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Spanish",
+      "og_image": "https://insurancecareershub.com/assets/jobs/houston-tx-bilingual-sales-spanish.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/OjeMIpC5UVg=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-26"
+    },
+    {
+      "job_id": "l3b1ighPQwE=",
+      "slug": "jonesboro-ga-insurance-sales-rep",
+      "url": "https://insurancecareershub.com/j/jonesboro-ga-insurance-sales-rep/",
+      "filled": false,
+      "label": "Jonesboro GA Sales",
+      "title": "Insurance Sales Representative \u2013 State Farm Agent Team Member",
+      "og_image": "https://insurancecareershub.com/assets/jobs/jonesboro-ga-insurance-sales-rep.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/l3b1ighPQwE=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-26"
+    },
+    {
+      "job_id": "lK7kbVVFONg=",
+      "slug": "houston-tx-bilingual-sales-vietnamese",
+      "url": "https://insurancecareershub.com/j/houston-tx-bilingual-sales-vietnamese/",
+      "filled": false,
+      "label": "Houston TX Bilingual",
+      "title": "Bilingual Insurance Sales Representative - Vietnamese",
+      "og_image": "https://insurancecareershub.com/assets/jobs/houston-tx-bilingual-sales-vietnamese.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/lK7kbVVFONg=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-26"
+    },
+    {
+      "job_id": "X8AWNN33a2c=",
+      "slug": "niantic-ct-licensed-sales",
+      "url": "https://insurancecareershub.com/j/niantic-ct-licensed-sales/",
+      "filled": false,
+      "label": "Niantic CT Sales",
+      "title": "Property & Casualty Licensed Insurance Sales",
+      "og_image": "https://insurancecareershub.com/assets/jobs/niantic-ct-licensed-sales.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/X8AWNN33a2c=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-26"
+    },
+    {
+      "job_id": "2gH52hcmELw=",
+      "slug": "scottsdale-az-insurance-sales-rep",
+      "url": "https://insurancecareershub.com/j/scottsdale-az-insurance-sales-rep/",
+      "filled": false,
+      "label": "Scottsdale AZ Sales",
+      "title": "Insurance Sales Representative",
+      "og_image": "https://insurancecareershub.com/assets/jobs/scottsdale-az-insurance-sales-rep.jpg",
+      "fb_tracked": "https://staffmyagency.com/Main/ApplyForJob/2gH52hcmELw=/suon7RAzw4M=?utm_source=ich_facebook&utm_campaign=jobpromo&utm_medium=link_card",
+      "date": "2026-11-26"
+    },
     {
       "job_id": "sZFboBRTXqo=",
       "slug": "park-ridge-il-sales-rep",
